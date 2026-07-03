@@ -2,14 +2,9 @@
 tags:
   - Summoning
   - Spell
-  - Wizard
-  - Sorcerer
-  - Warlock
-  - Summoner
 SpellName:
 SpellType: Summoning
 SpellCover: "[[Teleport.png]]"
-SpellLevel: 5
 ---
 ## **Teleport**
 

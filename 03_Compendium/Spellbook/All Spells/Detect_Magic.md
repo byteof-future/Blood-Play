@@ -2,17 +2,11 @@
 tags:
   - "#Cognition"
   - Spell
-  - Wizard
-  - Cleric
-  - Bard
-  - Witch
-  - SpiritMedium
 SpellName:
 SpellType: Cognition
 SpellCover: "[[DetectMagic.png]]"
-SpellLevel: 1
 ---
-
+Magic that interacts with memory, knowledge, and perception.
 ## **Detect Magic**
 
 _Level 1 Cognition_

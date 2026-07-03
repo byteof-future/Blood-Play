@@ -2,15 +2,9 @@
 tags:
   - "#Alteration"
   - Spell
-  - Wizard
-  - Sorcerer
-  - Druid
-  - Witch
-  - Warlock
 SpellName:
 SpellType: Alteration
 SpellCover: "[[WeightOfFeather.png]]"
-SpellLevel: 1
 ---
 ## **Weight of Feather**
 

@@ -2,15 +2,9 @@
 tags:
   - "#Alteration"
   - Spell
-  - Wizard
-  - Sorcerer
-  - Druid
-  - Witch
-  - Warlock
 SpellName:
 SpellType: Alteration
 SpellCover: "[[Transform.png]]"
-SpellLevel: 4
 ---
 ## **Transform**
 

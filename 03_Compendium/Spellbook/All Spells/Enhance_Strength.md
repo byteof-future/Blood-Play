@@ -2,17 +2,11 @@
 tags:
   - "#Alteration"
   - Spell
-  - Barbarian
-  - Fighter
-  - Paladin
-  - Cleric
-  - Druid
 SpellName:
 SpellType: Alteration
 SpellCover: "[[EnhanceStrength.png]]"
-SpellLevel: 2
 ---
-
+(Transmutation/Change)Changing the physical properties of objects or creatures.
 
 ## **Enhance Strength**
 

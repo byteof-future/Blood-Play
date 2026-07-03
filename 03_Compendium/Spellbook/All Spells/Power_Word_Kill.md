@@ -2,13 +2,9 @@
 tags:
   - Vitality
   - Spell
-  - Wizard
-  - Warlock
-  - Sorcerer
 SpellName:
 SpellType: Vitality
 SpellCover: "[[PowerWordKill.png]]"
-SpellLevel: 9
 ---
 ## **Power Word Kill**
 

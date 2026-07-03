@@ -2,15 +2,9 @@
 tags:
   - Phantasm
   - Spell
-  - Bard
-  - Wizard
-  - Warlock
-  - Witch
-  - Sorcerer
 SpellName:
 SpellType: Phantasm
 SpellCover: "[[DarkDelerium.png]]"
-SpellLevel: 5
 ---
 The magic of tricks, shadows, and altering perception.
 ## **Dark Delirium**

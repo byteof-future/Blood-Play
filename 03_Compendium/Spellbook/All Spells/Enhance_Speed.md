@@ -2,15 +2,9 @@
 tags:
   - "#Alteration"
   - Spell
-  - Monk
-  - Rogue
-  - Ranger
-  - Wizard
-  - Bard
 SpellName:
 SpellType: Alteration
 SpellCover: "[[EnhanceSpeed.png]]"
-SpellLevel: 1
 ---
 (Transmutation/Change)Changing the physical properties of objects or creatures.
 

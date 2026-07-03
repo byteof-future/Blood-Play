@@ -2,14 +2,9 @@
 tags:
   - "#Alteration"
   - Spell
-  - Monk
-  - Ranger
-  - Druid
-  - Wizard
 SpellName:
 SpellType: Alteration
 SpellCover: "[[WindLeap.png]]"
-SpellLevel: 1
 ---
 ## **Wind Leap**
 

@@ -2,16 +2,11 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Paladin
-  - Cleric
-  - Wizard
-  - Runesmith
-  - Artificer
 SpellName:
 SpellType: Aegis
 SpellCover: "[[ShieldOfFaith.png]]"
-SpellLevel: 1
 ---
+(Abjuration/Protection)Covers all magic used to protect, banish, or create barriers.
 
 ## **Shield of Faith**
 

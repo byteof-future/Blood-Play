@@ -2,16 +2,11 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Paladin
-  - Cleric
-  - Wizard
-  - Runesmith
-  - Artificer
 SpellName:
 SpellType: Aegis
 SpellCover: "[[MindBlank.png]]"
-SpellLevel: 8
 ---
+(Abjuration/Protection)Covers all magic used to protect, banish, or create barriers.
 
 ## **Mind Blank**
 

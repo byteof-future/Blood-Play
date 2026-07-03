@@ -2,12 +2,9 @@
 tags:
   - Vitality
   - Spell
-  - Cleric
-  - Necromancer
 SpellName:
 SpellType: Vitality
 SpellCover: "[[TrueResurection.png]]"
-SpellLevel: 9
 ---
 ## **True Resurrection**
 

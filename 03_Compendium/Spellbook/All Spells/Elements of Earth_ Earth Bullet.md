@@ -2,14 +2,9 @@
 tags:
   - Energy
   - Spell
-  - Druid
-  - Sorcerer
-  - Wizard
-  - Monk
 SpellName:
 SpellType: Energy
 SpellCover: "[[EarthBullet.png]]"
-SpellLevel: 1
 ---
 ## **Elements of Earth: Earth Bullet**
 
@@ -17,7 +12,7 @@ _Level 1 Energy_
 
 - CastingMethod:: Non-Verbal
 - CastingTime:: 1 Action
-- Range:: 90 ft
+- Range:: 90 ftRaw power channeled into a specific form, like fire, light, or healing.
 - MPCost:: 20 MP
 - Duration:: Instant
 

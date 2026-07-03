@@ -2,15 +2,9 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[MeteorSwarm.png]]"
-SpellLevel: 9
 ---
 Raw power channeled into a specific form, like fire, light, or healing.## **Meteor Swarm**
 

@@ -2,13 +2,9 @@
 tags:
   - "#Alteration"
   - Spell
-  - Wizard
-  - Artificer
-  - Runesmith
 SpellName:
 SpellType: Alteration
 SpellCover: "[[PerfectCube.png]]"
-SpellLevel: 3
 ---
 (Transmutation/Change)Changing the physical properties of objects or creatures.
 

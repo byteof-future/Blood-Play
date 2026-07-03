@@ -2,15 +2,9 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[Spark.png]]"
-SpellLevel: 0
 ---
 Raw power channeled into a specific form, like fire, light, or healing.## **Spark**
 

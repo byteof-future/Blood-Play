@@ -2,17 +2,11 @@
 tags:
   - Phantasm
   - Spell
-  - Wizard
-  - Sorcerer
-  - Warlock
-  - Rogue
-  - Bard
 SpellName:
 SpellType: Phantasm
 SpellCover: "[[Invisibility.png]]"
-SpellLevel: 2
 ---
-
+The magic of tricks, shadows, and altering perception.
 ## **Invisibility**
 
 _Level 2 Phantasm_

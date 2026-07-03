@@ -2,16 +2,11 @@
 tags:
   - Compulsion
   - Spell
-  - Wizard
-  - Warlock
-  - Sorcerer
-  - Bard
 SpellName:
 SpellType: Compulsion
 SpellCover: "[[PowerWordStun.png]]"
-SpellLevel: 8
 ---
-
+(Enchantment/Mind)Any magic that bends the will, buffs the spirit, or alters emotions.
 ## **Power Word Stun**
 
 _Level 8 Compulsion_

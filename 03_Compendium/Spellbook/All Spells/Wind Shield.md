@@ -2,14 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Druid
-  - Wizard
-  - Ranger
-  - Monk
 SpellName:
 SpellType: Aegis
 SpellCover: "[[WindShield.png]]"
-SpellLevel: 1
 ---
 ## **Wind Shield**
 

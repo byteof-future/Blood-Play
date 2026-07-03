@@ -2,14 +2,9 @@
 tags:
   - Summoning
   - Spell
-  - Wizard
-  - Sorcerer
-  - Warlock
-  - Summoner
 SpellName: Cold Construct
 SpellType: Summoning
 SpellCover: "[[ColdConstructor.png]]"
-SpellLevel: 1
 ---
 ## **Cold Construct**
 

@@ -2,15 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Paladin
-  - Cleric
-  - Wizard
-  - Runesmith
-  - Artificer
 SpellName:
 SpellType: Aegis
 SpellCover: "[[DispelMagic.png]]"
-SpellLevel: 3
 ---
 ## **Dispel Magic**
 

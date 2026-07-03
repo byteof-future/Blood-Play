@@ -2,15 +2,9 @@
 tags:
   - "#Cognition"
   - Spell
-  - Wizard
-  - Cleric
-  - Bard
-  - Witch
-  - SpiritMedium
 SpellName: Augury
 SpellType: Cognition
 SpellCover: "[[Augury.png]]"
-SpellLevel: 2
 ---
 ## **Augury**
 

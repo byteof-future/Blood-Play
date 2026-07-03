@@ -2,15 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Paladin
-  - Cleric
-  - Wizard
-  - Runesmith
-  - Artificer
 SpellName: Alarm
 SpellType: Aegis
 SpellCover: "[[Alarm.png]]"
-SpellLevel: 1
 ---
 
 ## **Alarm**

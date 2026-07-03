@@ -2,14 +2,11 @@
 tags:
   - "#Alteration"
   - Spell
-  - Wizard
-  - Sorcerer
 SpellName:
 SpellType: Alteration
 SpellCover: "[[Teleport.png]]"
-SpellLevel: 9
 ---
-
+(Transmutation/Change)Changing the physical properties of objects or creatures.
 
 ## **Time Stop**
 

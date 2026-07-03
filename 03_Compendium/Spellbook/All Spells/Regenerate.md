@@ -2,15 +2,9 @@
 tags:
   - Vitality
   - Spell
-  - Cleric
-  - Paladin
-  - Druid
-  - Witch
-  - Necromancer
 SpellName:
 SpellType: Vitality
 SpellCover: "[[Regenerate.png]]"
-SpellLevel: 7
 ---
 ## **Regenerate**
 

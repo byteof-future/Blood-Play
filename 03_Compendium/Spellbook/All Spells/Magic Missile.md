@@ -2,15 +2,9 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[MagicMissle.png]]"
-SpellLevel: 1
 ---
 Raw power channeled into a specific form, like fire, light, or healing.## **Magic Missile**
 

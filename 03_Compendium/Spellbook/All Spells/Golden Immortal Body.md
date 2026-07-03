@@ -2,13 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Monk
-  - Paladin
-  - Cleric
 SpellName:
 SpellType: Aegis
 SpellCover: "[[GoldenImmortalBody.png]]"
-SpellLevel: 3
 ---
 (Abjuration/Protection)Covers all magic used to protect, banish, or create barriers.
 

@@ -8,5 +8,6 @@
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "Unsorted",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

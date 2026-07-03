@@ -2,15 +2,9 @@
 tags:
   - Compulsion
   - Spell
-  - Bard
-  - Warlock
-  - Witch
-  - Sorcerer
-  - Wizard
 SpellName:
 SpellType: Compulsion
 SpellCover: "[[Sleep.png]]"
-SpellLevel: 1
 ---
 ## **Sleep**
 

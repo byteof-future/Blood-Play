@@ -2,15 +2,9 @@
 tags:
   - Summoning
   - Spell
-  - Wizard
-  - Summoner
-  - Warlock
-  - Druid
-  - Witch
 SpellName:
 SpellType: Summoning
 SpellCover: "[[UnseenServent.png]]"
-SpellLevel: 1
 ---
 ## **Unseen Servant**
 

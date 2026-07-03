@@ -2,16 +2,11 @@
 tags:
   - "#Alteration"
   - Spell
-  - Wizard
-  - Sorcerer
-  - Druid
-  - Witch
-  - Warlock
 SpellName:
 SpellType: Alteration
 SpellCover: "[[SizeAlter.png]]"
-SpellLevel: 2
 ---
+(Transmutation/Change)Changing the physical properties of objects or creatures.
 
 ## **Size Alter**
 

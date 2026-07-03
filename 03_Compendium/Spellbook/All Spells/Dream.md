@@ -2,15 +2,9 @@
 tags:
   - Phantasm
   - Spell
-  - Bard
-  - Wizard
-  - Warlock
-  - Witch
-  - Sorcerer
 SpellName:
 SpellType: Phantasm
 SpellCover: "[[Dream.png]]"
-SpellLevel: 3
 ---
 ## **Dream**
 

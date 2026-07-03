@@ -2,17 +2,11 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[DarkBlast.png]]"
-SpellLevel: 2
 ---
-## **Dark Blast**
+Raw power channeled into a specific form, like fire, light, or healing.## **Dark Blast**
 
 _Level 2 Energy_
 

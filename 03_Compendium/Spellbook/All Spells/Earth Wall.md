@@ -2,16 +2,11 @@
 tags:
   - "#Alteration"
   - Spell
-  - Warlock
-  - Sorcerer
-  - Druid
-  - Witch
-  - Wizard
 SpellName:
 SpellType: Alteration
 SpellCover: "[[EarthWall.png]]"
-SpellLevel: 1
 ---
+(Transmutation/Change)Changing the physical properties of objects or creatures.
 
 ## **Earth Wall**
 

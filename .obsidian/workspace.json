@@ -107,30 +107,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_World_Amanac/Atlas/5_Abyss/The_Nex_Void.md",
+                "file": "Species/Goliath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The_Nex_Void"
-            }
-          },
-          {
-            "id": "f2082fb4ad959086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Sessions/Future_Plans/7 th ring magnumopus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7 th ring magnumopus"
+              "title": "Goliath"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -242,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Sessions/Future_Plans/7 th ring magnumopus.md",
+                "file": "03_Compendium/Items/Weapons/Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 th ring magnumopus"
+              "title": "Outgoing links from Weapons"
             }
           },
           {
@@ -286,8 +272,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -314,8 +300,18 @@
                 },
                 "id": "ID_d94918dba91b"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
+            }
+          },
+          {
+            "id": "e27f0c0bc2d9d38d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -323,7 +319,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,53 +330,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "graph:Open graph view": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "f2082fb4ad959086",
+  "active": "dac3e8bc3c25be8d",
   "lastOpenFiles": [
-    "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Reference_Material/About Aridonia/Aridonia.md",
-    "00_Sessions/Future_Plans/7 th ring magnumopus.md",
-    "02_World_Amanac/Atlas/4_Vivestera/Vivestera.md",
-    "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Kingdoms/Kingdom of Cerulea/Info/Kingdom of Cerulea.md",
-    "00_Sessions/Future_Plans/Layer 7 Ring of Pride.md",
-    "01_Characters/PCs/Kael Issac/What Kael Issac Knows.md",
-    "01_Characters/PCs/Kael Issac/Kael Issac.md",
-    "01_Characters/PC Sheets/Kael_Issac_CharacterSheet.md",
-    "02_World_Amanac/Atlas/5_Abyss/The_Nex_Void.md",
-    "02_World_Amanac/History/COMPLETE_TIMELINE(Need's Fixing).md",
-    "_INDEX/Main Party.md",
+    "Species/Orc.md",
+    "Species/Human.md",
+    "Species/Hobgoblin.md",
+    "Species/Hellborn.md",
+    "Species/Goliath.md",
+    "Species/Elf.md",
+    "Species/Dwarf.md",
+    "Species/DragonBorn.md",
+    "Species/Catfolk.md",
+    "03_Compendium/Items/Weapons/Weapons.md",
+    "03_Compendium/Items/Magic Items/Master Magic Items.md",
+    "Monsters/bag_man_monster.md",
+    "Monsters/Masque.md",
+    "Monsters/goblin-monster-sheet.md",
+    "Monsters/crocodile-sheet.md",
+    "Monsters/naga-monster-sheet.md",
+    "Monsters/thunderbird-sheet.md",
+    "Monsters/Xavier.md",
+    "Classes/Alchemist.md",
+    "03_Compendium/Spellbook/Cursed Speech.md",
+    "03_Compendium/Spellbook/Word of Evil.md",
+    "03_Compendium/Spellbook/Word of God.md",
+    "03_Compendium/Spellbook/Suggestion.md",
+    "03_Compendium/Spellbook/Dance of Mermaids.md",
+    "03_Compendium/Spellbook/Command.md",
+    "03_Compendium/Spellbook/Hypnotic Pattern.md",
     "02_World_Amanac/History/Timeline.canvas",
+    "03_Compendium/Items/Magic Items",
+    "update_species.ps1",
+    "01_Characters/PCs/Flint Lockwood",
+    "01_Characters/PCs/Kirmanda",
+    "01_Characters/PCs/Jeff",
+    "pcs_cleanup.ps1",
+    "flora_cleanup.ps1",
+    "templates_cleanup.ps1",
+    "monsters_cleanup.ps1",
+    "spells_cleanup.ps1",
     "The Party.canvas",
-    "01_Characters/PC Sheets/Rigel_Corvus_CharacterSheet.md",
-    "01_Characters/PC Sheets/Strarrul_Greenskin_CharacterSheet.md",
-    "01_Characters/PC Sheets/Hunter_Moonshine_CharacterSheet.md",
-    "01_Characters/PC Sheets/Kaien_Kagari_CharacterSheet.md",
-    "03_Compendium/Spellbook/All Spells/NewSpells/Dominate_Beast.md",
-    "Untitled.md",
-    "03_Compendium/Spellbook/SpellBook.md",
-    "03_Compendium/Spellbook/Attacking Spells.md",
-    "01_Characters/PCs/Green Skin/What Strarrul Greenskin Knows.md",
-    "01_Characters/PCs/Rigel Corvus/Rigel Corvus History.md",
-    "00_Sessions/Session_Logs/3Meanwhile in third layer.md",
-    "01_Characters/PC Sheets/Lucien_Vorth_CharacterSheet.md",
-    "01_Characters/PCs/Green Skin/Strarrul Greenskin History.md",
-    "02_World_Amanac/History/Events/The Second Draconic War.md",
-    "02_World_Amanac/History/Events/The Fracturing.md",
-    "01_Characters/PCs/Kaien_Kagari",
-    "01_Characters/PCs/Rigel Corvus",
     "05_Assets/Images/Characters/Vorth.png",
     "02_World_Amanac/History/Times/Untitled.canvas",
-    "02_World_Amanac/Species",
-    "00_Sessions/Episodes",
-    "01_Characters/NPCs/Companions/Hunter's Companion",
-    "01_Characters/NPCs/Family of PC's/Greenskin's Family",
-    "01_Characters/NPCs/Family of PC's/Hunter's Family",
-    "02_World_Amanac/History/Times",
-    "02_World_Amanac/History/Events",
-    "Untitled.base",
     "01_Characters/NPCs/Factions/Untitled.canvas",
     "Images/Locations/Vivestera.jpg",
     "Images/Characters/Greenskin.png",

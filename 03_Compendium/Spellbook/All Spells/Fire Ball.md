@@ -2,17 +2,11 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[Fireball.png]]"
-SpellLevel: 2
 ---
-## **Fire Ball**
+Raw power channeled into a specific form, like fire, light, or healing.## **Fire Ball**
 
 _Level 2 Energy_
 

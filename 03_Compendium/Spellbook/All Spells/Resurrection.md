@@ -2,13 +2,9 @@
 tags:
   - Vitality
   - Spell
-  - Cleric
-  - Paladin
-  - Necromancer
 SpellName:
 SpellType: Vitality
 SpellCover: "[[Resurection.png]]"
-SpellLevel: 7
 ---
 ## **Resurrection**
 

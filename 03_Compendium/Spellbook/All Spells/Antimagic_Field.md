@@ -2,15 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Paladin
-  - Cleric
-  - Wizard
-  - Runesmith
-  - Artificer
 SpellName: Antimagic Field
 SpellType: Aegis
 SpellCover: "[[Antimagic_Field.png]]"
-SpellLevel: 8
 ---
 (Abjuration/Protection)Covers all magic used to protect, banish, or create barriers.
 

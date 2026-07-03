@@ -2,16 +2,9 @@
 tags:
   - Summoning
   - Spell
-  - Fighter
-  - Paladin
-  - Wizard
-  - Warlock
-  - Summoner
-  - Artificer
 SpellName: Conjure Weapon
 SpellType: Summoning
 SpellCover: "[[ConjureWeapon.png]]"
-SpellLevel: 1
 ---
 The art of bringing things into existence or moving them through space.## **Conjure Weapon**
 

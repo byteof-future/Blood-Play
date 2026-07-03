@@ -2,15 +2,9 @@
 tags:
   - Vitality
   - Spell
-  - Cleric
-  - Paladin
-  - Druid
-  - Bard
-  - Witch
 SpellName:
 SpellType: Vitality
 SpellCover: "[[TransferMana.png]]"
-SpellLevel: 1
 ---
 ## **Transfer Mana**
 

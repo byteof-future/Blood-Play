@@ -2,14 +2,9 @@
 tags:
   - Vitality
   - Spell
-  - Necromancer
-  - Warlock
-  - Witch
-  - Wizard
 SpellName:
 SpellType: Vitality
 SpellCover: "[[MinorCurse.png]]"
-SpellLevel: 2
 ---
 ## **Minor Curse**
 

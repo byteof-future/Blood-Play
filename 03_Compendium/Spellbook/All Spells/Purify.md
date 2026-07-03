@@ -2,16 +2,11 @@
 tags:
   - "#Alteration"
   - Spell
-  - Cleric
-  - Paladin
-  - Druid
-  - Monk
 SpellName:
 SpellType: Alteration
 SpellCover: "[[Purify.png]]"
-SpellLevel: 1
 ---
-
+(Transmutation/Change)Changing the physical properties of objects or creatures.
 
 ## **Purify**
 

@@ -2,17 +2,11 @@
 tags:
   - Phantasm
   - Spell
-  - Bard
-  - Wizard
-  - Warlock
-  - Witch
-  - Sorcerer
 SpellName:
 SpellType: Phantasm
 SpellCover: "[[Illusion.png]]"
-SpellLevel: 1
 ---
-
+The magic of tricks, shadows, and altering perception.
 ## **Illusion**
 
 _Level 1 Phantasm_

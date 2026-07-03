@@ -2,15 +2,9 @@
 tags:
   - "#Alteration"
   - Spell
-  - Wizard
-  - Sorcerer
-  - Druid
-  - Witch
-  - Warlock
 SpellName:
 SpellType: Alteration
 SpellCover: "[[ToughBody.png]]"
-SpellLevel: 2
 ---
 ## **Tough Body**
 

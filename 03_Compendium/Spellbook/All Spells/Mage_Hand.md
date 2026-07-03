@@ -2,17 +2,11 @@
 tags:
   - "#Alteration"
   - Spell
-  - Wizard
-  - Sorcerer
-  - Druid
-  - Witch
-  - Warlock
 SpellName:
 SpellType: Alteration
 SpellCover: "[[MageHand.png]]"
-SpellLevel: 0
 ---
-
+(Transmutation/Change)Changing the physical properties of objects or creatures.
 
 ## **Mage Hand**
 

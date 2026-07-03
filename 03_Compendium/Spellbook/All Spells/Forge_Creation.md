@@ -2,15 +2,11 @@
 tags:
   - "#Alteration"
   - Spell
-  - Artificer
-  - Runesmith
-  - Wizard
 SpellName:
 SpellType: Alteration
 SpellCover: "[[forgeCreation.png]]"
-SpellLevel: 3
 ---
-
+(Transmutation/Change)Changing the physical properties of objects or creatures.
 
 ## **Forge Creation**
 

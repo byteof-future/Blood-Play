@@ -2,15 +2,9 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[WallOfFire.png]]"
-SpellLevel: 3
 ---
 ## **Wall of Fire**
 

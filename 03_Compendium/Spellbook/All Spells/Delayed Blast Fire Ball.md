@@ -2,17 +2,11 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[DelayedBlastFireball.png]]"
-SpellLevel: 4
 ---
-## **Delayed Blast Fire Ball**
+Raw power channeled into a specific form, like fire, light, or healing.## **Delayed Blast Fire Ball**
 
 _Level 4 Energy_
 

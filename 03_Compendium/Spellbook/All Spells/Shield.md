@@ -2,15 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Paladin
-  - Cleric
-  - Wizard
-  - Runesmith
-  - Artificer
 SpellName:
 SpellType: Aegis
 SpellCover: "[[Shield.png]]"
-SpellLevel: 1
 ---
 ## **Shield**
 

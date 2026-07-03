@@ -2,13 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Wizard
-  - Artificer
-  - Runesmith
 SpellName:
 SpellType: Aegis
 SpellCover: "[[PerfectSphere.png]]"
-SpellLevel: 2
 ---
 (Abjuration/Protection)Covers all magic used to protect, banish, or create barriers.
 

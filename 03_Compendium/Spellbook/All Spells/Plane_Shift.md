@@ -2,14 +2,9 @@
 tags:
   - Summoning
   - Spell
-  - Wizard
-  - Cleric
-  - Warlock
-  - Summoner
 SpellName:
 SpellType: Summoning
 SpellCover: "[[PlaneShift.png]]"
-SpellLevel: 7
 ---
 The art of bringing things into existence or moving them through space.## **Plane Shift**
 

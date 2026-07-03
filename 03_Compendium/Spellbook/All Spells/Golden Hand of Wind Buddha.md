@@ -2,15 +2,9 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[GoldenHandOfWindBuddha.png]]"
-SpellLevel: 4
 ---
 Raw power channeled into a specific form, like fire, light, or healing.## **Golden Hand of Wind Buddha**
 

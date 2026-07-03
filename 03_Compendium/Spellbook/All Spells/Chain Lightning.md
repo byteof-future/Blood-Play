@@ -2,15 +2,9 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName: Chain Lightning
 SpellType: Energy
 SpellCover: "[[ChainLightning.png]]"
-SpellLevel: 4
 ---
 Raw power channeled into a specific form, like fire, light, or healing.## **Chain Lightning**
 

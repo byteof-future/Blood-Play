@@ -2,15 +2,11 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Wizard
-  - Sorcerer
-  - Warlock
-  - Witch
 SpellName:
 SpellType: Aegis
 SpellCover: "[[MageArmor.png]]"
-SpellLevel: 1
 ---
+(Abjuration/Protection)Covers all magic used to protect, banish, or create barriers.
 
 ## **Mage Armour**
 

@@ -2,16 +2,11 @@
 tags:
   - "#Alteration"
   - Spell
-  - Wizard
-  - Sorcerer
-  - Druid
-  - Witch
-  - Warlock
 SpellName:
 SpellType: Alteration
 SpellCover: "[[Enchant.png]]"
-SpellLevel: 1
 ---
+(Transmutation/Change)Changing the physical properties of objects or creatures.
 
 ## **Enchant**
 

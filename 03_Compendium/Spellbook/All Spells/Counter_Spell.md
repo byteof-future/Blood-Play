@@ -2,15 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Paladin
-  - Cleric
-  - Wizard
-  - Runesmith
-  - Artificer
 SpellName: Counter Spell
 SpellType: Aegis
 SpellCover: "[[CounterSpell.png]]"
-SpellLevel: 3
 ---
 ## **Counter Spell**
 

@@ -2,15 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Paladin
-  - Cleric
-  - Wizard
-  - Runesmith
-  - Artificer
 SpellName:
 SpellType: Aegis
 SpellCover: "[[ManaCoat.png]]"
-SpellLevel: 1
 ---
 (Abjuration/Protection)Covers all magic used to protect, banish, or create barriers.
 

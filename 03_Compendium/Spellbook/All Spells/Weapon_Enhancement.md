@@ -2,15 +2,9 @@
 tags:
   - "#Alteration"
   - Spell
-  - Fighter
-  - Paladin
-  - Artificer
-  - Wizard
-  - Runesmith
 SpellName:
 SpellType: Alteration
 SpellCover: "[[WeaponEnchant.png]]"
-SpellLevel: 1
 ---
 ## **Weapon Enhancement**
 

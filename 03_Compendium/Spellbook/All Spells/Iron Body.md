@@ -2,16 +2,11 @@
 tags:
   - "#Alteration"
   - Spell
-  - Monk
-  - Barbarian
-  - Fighter
-  - Wizard
-  - Runesmith
 SpellName:
 SpellType: Alteration
 SpellCover: "[[IronBody.png]]"
-SpellLevel: 1
 ---
+(Transmutation/Change)Changing the physical properties of objects or creatures.
 
 ## **Iron Body**
 

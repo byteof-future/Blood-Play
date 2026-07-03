@@ -2,15 +2,9 @@
 tags:
   - "#Aegis"
   - "#Spell"
-  - Paladin
-  - Cleric
-  - Wizard
-  - Runesmith
-  - Artificer
 SpellName: Basic Barrier
 SpellType: Aegis
 SpellCover: "[[BasicBarrier.png]]"
-SpellLevel: 1
 ---
 (Abjuration/Protection)Covers all magic used to protect, banish, or create barriers.
 

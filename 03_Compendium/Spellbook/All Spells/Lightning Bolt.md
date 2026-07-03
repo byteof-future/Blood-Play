@@ -2,17 +2,11 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[LightningBolt.png]]"
-SpellLevel: 3
 ---
-## **Lightning Bolt**
+Raw power channeled into a specific form, like fire, light, or healing.## **Lightning Bolt**
 
 _Level 3 Energy_
 

@@ -2,15 +2,9 @@
 tags:
   - Vitality
   - Spell
-  - Cleric
-  - Paladin
-  - Druid
-  - Bard
-  - Witch
 SpellName:
 SpellType: Vitality
 SpellCover: "[[Shine.png]]"
-SpellLevel: 0
 ---
 ## **Shine**
 

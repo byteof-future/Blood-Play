@@ -2,12 +2,9 @@
 tags:
   - "#Alteration"
   - Spell
-  - Wizard
-  - Sorcerer
 SpellName:
 SpellType: Alteration
 SpellCover: "[[Wish.png]]"
-SpellLevel: 9
 ---
 ## **Wish**
 

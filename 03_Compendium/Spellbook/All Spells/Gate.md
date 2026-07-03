@@ -2,18 +2,13 @@
 tags:
   - Summoning
   - Spell
-  - Wizard
-  - Warlock
-  - Summoner
-  - Cleric
 SpellName:
 SpellType: Summoning
 SpellCover: "[[Gate.png]]"
-SpellLevel: 9
 ---
 ## **Gate**
 
-_Level 9 Summon_
+_Level 9 SummonThe art of bringing things into existence or moving them through space._
 
 - CastingMethod:: Chanting
 - CastingTime:: 1 Action

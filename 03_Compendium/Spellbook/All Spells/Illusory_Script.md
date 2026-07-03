@@ -2,17 +2,11 @@
 tags:
   - Phantasm
   - Spell
-  - Bard
-  - Wizard
-  - Warlock
-  - Witch
-  - Sorcerer
 SpellName:
 SpellType: Phantasm
 SpellCover: "[[IllusionaryScript.png]]"
-SpellLevel: 1
 ---
-
+The magic of tricks, shadows, and altering perception.
 ## **Illusory Script**
 
 _Level 1 Phantasm_

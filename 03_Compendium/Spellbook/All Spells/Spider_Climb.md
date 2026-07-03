@@ -2,16 +2,9 @@
 tags:
   - "#Alteration"
   - Spell
-  - Rogue
-  - Monk
-  - Ranger
-  - Wizard
-  - Druid
-  - Witch
 SpellName:
 SpellType: Alteration
 SpellCover: "[[SpiderClimb.png]]"
-SpellLevel: 2
 ---
 ## **Spider Climb**
 

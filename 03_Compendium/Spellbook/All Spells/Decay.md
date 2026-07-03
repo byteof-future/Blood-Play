@@ -2,14 +2,9 @@
 tags:
   - Vitality
   - Spell
-  - Necromancer
-  - Warlock
-  - Witch
-  - Druid
 SpellName:
 SpellType: Vitality
 SpellCover: "[[Decay.png]]"
-SpellLevel: 1
 ---
 ## **Decay**
 

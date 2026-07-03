@@ -2,15 +2,9 @@
 tags:
   - Vitality
   - Spell
-  - Cleric
-  - Paladin
-  - Druid
-  - Bard
-  - Witch
 SpellName: Bless
 SpellType: Vitality
 SpellCover: "[[Bless.png]]"
-SpellLevel: 1
 ---
 ## **Bless**
 

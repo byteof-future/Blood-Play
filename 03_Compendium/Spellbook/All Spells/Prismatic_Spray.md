@@ -2,15 +2,9 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[PrismaticSpray.png]]"
-SpellLevel: 7
 ---
 ## **Prismatic Spray**
 

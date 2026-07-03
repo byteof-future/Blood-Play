@@ -2,15 +2,9 @@
 tags:
   - Energy
   - Spell
-  - Sorcerer
-  - Wizard
-  - Druid
-  - Warlock
-  - Alchemist
 SpellName:
 SpellType: Energy
 SpellCover: "[[StormOfVengence.png]]"
-SpellLevel: 5
 ---
 ## **Storm of Vengeance**
 

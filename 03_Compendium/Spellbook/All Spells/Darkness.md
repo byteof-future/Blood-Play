@@ -2,15 +2,9 @@
 tags:
   - Phantasm
   - Spell
-  - Bard
-  - Wizard
-  - Warlock
-  - Witch
-  - Sorcerer
 SpellName:
 SpellType: Phantasm
 SpellCover: "[[Darkness.png]]"
-SpellLevel: 1
 ---
 The magic of tricks, shadows, and altering perception.
 ## **Darkness**

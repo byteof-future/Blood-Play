@@ -2,14 +2,9 @@
 tags:
   - Summoning
   - Spell
-  - Wizard
-  - Druid
-  - Witch
-  - Artificer
 SpellName:
 SpellType: Summoning
 SpellCover: "[[Web.png]]"
-SpellLevel: 2
 ---
 ## **Web**
 
