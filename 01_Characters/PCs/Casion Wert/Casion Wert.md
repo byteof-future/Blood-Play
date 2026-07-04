@@ -66,14 +66,14 @@ PlayerCover:
 
 ## 👤 Identity
 
-| Category            | Value |
-| :------------------ | :---- |
-| **Race**            |       |
-| **Primary Class**   |       |
-| **Secondary Class** |       |
-| **Deity**           |       |
-| **Origin**          |       |
-| **Background**      |       |
+| Category            | Value       |
+| :------------------ | :---------- |
+| **Race**            | Cimic       |
+| **Primary Class**   | BloodHunter |
+| **Secondary Class** |             |
+| **Deity**           |             |
+| **Origin**          | Slave Born  |
+| **Background**      | Hunter      |
 
 ---
 
@@ -85,15 +85,22 @@ PlayerCover:
 ### Proficiency
 *Every 5 Levels (1 Class Level) = 1 Proficiency Point*
 
-| Name | Level |
-| :--- | :---: |
-|      |       |
+| Name         | Level |
+| :----------- | :---: |
+| Musket       |       |
+| Compound bow |       |
+| Short Sword  |       |
 
 
 ---
 
 ## 🧬 Traits
 ### Race Traits
+- **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+- **Animal Enhancements.** Your body has been altered with animal characteristics. You choose one animal enhancement now and one at 50th level.
+	- **Manta Glide (1st level).** You have ray-like fins that you use as wings to slow your fall or allow you to glide. When you fall and are not incapacitated, you can subtract up to 100 feet from your fall when calculating your fall damage and can move horizontally 2 feet for every 1 foot you fall.
+
 
 ### Personal Traits
 * **Physical traits:** 
@@ -114,9 +121,12 @@ PlayerCover:
 
 ## 🗡️ Weapons & Equipment
 
-| Weapon | Effect | Dmg Formula | Range | Dmg Type | Actual Dmg |
-| :----- | :----- | :---------- | :---- | :------- | :--------- |
-|        |        |             |       |          |            |
+| Weapon           | Effect                       | Dmg Formula          | Range  | Dmg Type          | Actual Dmg      |
+| :--------------- | :--------------------------- | :------------------- | :----- | :---------------- | :-------------- |
+| **Shotgun **     | u can shoot every other turn | `(P+2)d20+Dex+Aim`   | +20 ft |                   | `dice: 2d20+13` |
+| **Compound bow** |                              | `(SM+1+P)d8+Aim+Dex` | 150 ft |                   | ``              |
+| Long sword       |                              | `(SM +P+1)d6+SS`     |        | Piercing,Slashing | `dice: 7d8+12`  |
+|                  |                              |                      |        |                   |                 |
 
 
 ### Gear
@@ -124,6 +134,7 @@ PlayerCover:
 ### Armor
 | Armor Res (ARN) | Armor HP (AHP) | Current AHP |
 | :-------------: | :------------: | :---------: |
+|       15        |      5000      |    5000     |
 
 
 ---
@@ -143,7 +154,7 @@ PlayerCover:
 ## Depth
 
 ___
-## Iventory
+## Inventory
 
 
 

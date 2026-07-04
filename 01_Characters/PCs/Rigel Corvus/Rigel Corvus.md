@@ -24,7 +24,7 @@ Class Level = Level/5(whole number)
 
 | Primary Class | Secondary Class |
 | ------------- | --------------- |
-| Fighter       | Wizard          |
+| Fighter       |                 |
 
 | Race | Human |
 | ---- | ----- |

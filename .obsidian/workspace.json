@@ -89,16 +89,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
+                "file": "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hunter Moonshine"
+              "title": "Rigel Corvus"
             }
           },
           {
             "id": "78eeba12bb487a5c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Characters/PCs/Casion Wert/Casion Wert.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Casion Wert"
+            }
+          },
+          {
+            "id": "d0be8bb0243a0e1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,23 +126,9 @@
               "icon": "lucide-file",
               "title": "Kael Issac"
             }
-          },
-          {
-            "id": "d869a6145556107c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_World_Amanac/History/COMPLETE_TIMELINE(Need's Fixing).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COMPLETE_TIMELINE(Need's Fixing)"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,6 +214,7 @@
       {
         "id": "35819c645d7990f2",
         "type": "tabs",
+        "dimension": 68.13725490196079,
         "children": [
           {
             "id": "fc590a5f381200ca",
@@ -238,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Species/Hellborn.md",
+                "file": "01_Characters/PCs/Casion Wert/Casion Wert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hellborn"
+              "title": "Outgoing links from Casion Wert"
             }
           },
           {
@@ -335,6 +338,7 @@
       {
         "id": "560fe8eacdc5d2ff",
         "type": "tabs",
+        "dimension": 31.862745098039213,
         "children": [
           {
             "id": "f897c7262afe5891",
@@ -370,14 +374,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0c65d0c749643483",
+  "active": "78eeba12bb487a5c",
   "lastOpenFiles": [
-    "01_Characters/PCs/Casion Wert/Casion Wert.md",
-    "02_World_Amanac/History/COMPLETE_TIMELINE(Need's Fixing).md",
     "01_Characters/PCs/Kael Issac/Kael Issac.md",
+    "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
+    "01_Characters/PCs/Casion Wert/Casion Wert.md",
+    "01_Characters/PCs/Lucien vorth/Lucien Vorth.md",
+    "01_Characters/PCs/Flint Lockwood/Flint Lockwood.md",
+    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
+    "Indexes/BackgroundIndex.md",
+    "Indexes/OriginIndex.md",
+    "02_World_Amanac/History/COMPLETE_TIMELINE(Need's Fixing).md",
+    "Species/Hellborn.md",
     "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Kingdoms/Union/Dwarven kingdom of Ayaman/Villages/Carcosa.md",
     "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Reference_Material/About Aridonia/Aridonia.md",
-    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
     "Species/Goliath.md",
     "00_Sessions/Future_Plans/7 th ring magnumopus.md",
     "00_Sessions/Future_Plans/4th layer.md",
@@ -386,7 +396,6 @@
     "00_Sessions/Act I Dungeon/Layer one.md",
     "Monsters/Masque.md",
     "01_Characters/PCs/Jeff/Jeff.md",
-    "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
     "_INDEX/Main Party.md",
     "Species/Halfling.md",
     "00_Sessions/Session_Logs/Layer 7 Ring of Pride.md",
@@ -394,11 +403,6 @@
     "00_Sessions/Session_Logs/2Second layer.md",
     "00_Sessions/Session_Logs/1Starting Sessions.md",
     "01_Characters/PCs/Casion Wert",
-    "Prompts/Prompt4.md",
-    "01_Characters/PCs/Hunter Moonshine/What Hunter Moonshine Knows.md",
-    "02_World_Amanac/Atlas/4_Vivestera/Vivestera.md",
-    "_INDEX/_Location Index.md",
-    "01_Characters/Relationship Tree.md",
     "The Party.canvas",
     "02_World_Amanac/History/Timeline.canvas",
     "03_Compendium/Items/Magic Items",
