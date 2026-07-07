@@ -4,7 +4,7 @@ tags:
   - Character
   - PC
 PlayerName: RigelCorvus
-PlayerCover:
+PlayerCover: Love you DM....mera babu
 ---
 
 
