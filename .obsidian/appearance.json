@@ -1,8 +1,5 @@
 {
   "cssTheme": "ITS Theme",
   "nativeMenus": false,
-  "accentColor": "",
-  "enabledCssSnippets": [
-    "TeleHead"
-  ]
+  "accentColor": ""
 }

@@ -1,27 +1,7 @@
-## abelites
-- **Shape change:** Metamorphosis/changing form at will
-     1. change into any living or non-living object but only obtain their physical properties. For maximum of 12 hours.
-     2. it will retain its own abelites and magic
-- **Weather forecast:**  manipulating the weather
-    1. basic weather manipulation
-    2. it will take extra 20min if the called weather is unNatural to the environment
-- **Bond:**  at the binging of every day (12:00am) i give him one of my magic if i fail to do so the ritual the spell from previous day will refresh/continue 
-    1. the specs of the spell are the same
-    2. give it a fixed number of times it can use the spell
-    3. Or it will take mana from a willing to cast the spell
-    4. or V can role a d4 to decide how many time it can use the magic
-    - [ ] **(current spell)**
 
-## traits
-- when ever it gets to 1 Hp it will magically return to me/pocket dimension
-- night vision
-- minor heal 10 Hp same creature cant be healed twice a day
-
-## Back story
 I often took my mom’s instrument and used to go out in the forest alone. i used to play the tunes i herd from my mother. when ever i played the melody's in the forest the wiled animals birds and the magical beast often came and listened to my music from afar. i had seen many different beasts in the forest. everyone looked like they genuinely enjoyed my melody’s but their was one magical beast a majestic parrot, whom i always spotted listening from somewhere he had became my loyal fan. he never missed a single time  i played no matter my location. sometimes i go deeper in the forest, near the ocean or just near the edge of the forest he manages to find my voice every time and sits to listen to my music.
 
 One day, i went into the forest, found a place to sit down and started playing, but he wasn't present. it made me concerned for him, so i went deep in the forest to find him, i got to the darker side of the the forest. where i found the parrot he was on the ground injured badly like he was fighting someone, as i went there to help him i sensed a presence of a creature some where near us, i took the risk and played a healing melody this helped the parrot recover his wounds, for some unknown reason the creature decided not to attack us and we made it out of the forest, when we reached a safe place i gave him some fruits to eat then after some time he looked at me with purity in his heart and then he flew away.
 
 we had another encounter on the day of the lunar eclipse it got a little late and before i knew it the darkness fell allover the forest and we all know the forest at night turns into a dangerous place, night creatures roam in the dark looking for prey.
 i was deep in the forest all alone i started making my way back, while i was walking as fast as i could, i felt a presence behind me, following me at the same pace. i recognized this presence, i felt the same way when i helped that parrot, i believe it came to take his revenge. i was scared for my life, i knew i wont be able to make it out alive of the forest on time. before the panic sunk in, i saw a bright light flying over the sky it was non other then the  parrot i helped my loyal listener he garbed my shoulders with his claws and took off for the sky the view from the sky was something else that i can not describe with words the moon had started to shine light again there were some light clouds in the sky but the stars were visible as bright as they could beneath us the forest looked majestic in the moon light then he dropped me at the door of my home that was the night i decided that we both have a destiny together so i requested a pact with the magic beast and he accepted from that point on we never stayed away from each other i first saw him on a stormy day he was completely drenched in rain but he still came to listen to my song so i named him stormy.
-

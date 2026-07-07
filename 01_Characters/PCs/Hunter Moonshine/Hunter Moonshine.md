@@ -7,11 +7,11 @@ PlayerName: Hunter Moonshine
 Cover:
 ---
  
-# Character Sheet: Hunter Moonshine
+# Character Sheet: Hunter Draya
 
 | Level | Class Level |
 | :---: | :---------: |
-|  30   |      6      |
+|  25   |      5      |
 
 | Attribute Points | 0   |
 | ---------------- | --- |
@@ -29,13 +29,13 @@ Cover:
 | **Resistance**   |  +4   |    +1    |
 | **Intelligence** |  +8   |    +2    |
 | **Health Score** |  +8   |    -     |
-| **Mana Score**   |  +12  |    -     |
+| **Mana Score**   |  +8   |    -     |
 
 ### Derived Stats
 | Stat               |  Value  | Notes                               |
 | :----------------- | :-----: | :---------------------------------- |
 | **Resistance No.** |   20    | 5 × Resistance (shown as Res*5(20)) |
-| **Total Mana**     | 340/340 | Base 100 + (MP Score × 20)          |
+| **Total Mana**     | 260/260 | Base 100 + (MP Score × 20)          |
 
 ### Health
 *Base HP = 100 + (HP Score × 10)*
@@ -53,7 +53,7 @@ Cover:
 | **Agility**      |  +1   | **Intimidation** |   0   |
 | **Aim**          |  +2   | **Perception**   |  +3   |
 | **Coordination** |  +2   | **Reflex**       |  +1   |
-| **Deception**    |  +2   | **Seduction**    |  +3   |
+| **Deception**    |  +2   | **Seduction**    |  +2   |
 | **Dexterity**    |  +2   | **Stealth**      |  +2   |
 | **Ingenuity**    |   0   | **Will**         |  +3   |
 | **Insight**      |  +2   |                  |       |
@@ -62,20 +62,20 @@ Cover:
 
 ## 👤 Identity
 
-| Category            | Value                           |
-| :------------------ | :------------------------------ |
-| **Race**            | Elf                             |
-| **Primary Class**   | Bard                            |
-| **Secondary Class** |                                 |
-| **Origin**          | Bi-Racial (High elf x moon elf) |
-| **Background**      | Merchents                       |
+| Category            | Value        |
+| :------------------ | :----------- |
+| **Race**            | Elf          |
+| **Primary Class**   | Bard         |
+| **Secondary Class** |              |
+| **Origin**          | Cosmic Child |
+| **Background**      | Slave        |
 
 ---
 
 ## ⚔️ Class & Proficiency
 
 ### Class Focus
-* **Bardic Inspiration :** Can give an additional d20 to any roll for 1d6 times to those who can hear me.
+* **Bards Luck:** Can reroll any one roll once per day .
 
 ### Proficiency
 *Every 5 Levels (1 Class Level) = 1 Proficiency Point*
@@ -101,88 +101,74 @@ Cover:
 
 ### Skills
 *Usable once per long rest*
-1. **Song of Rest:** once per long rest my music can give the effects of long rest to those who are listening to it {requires a 10min performance without being interrupted or else the effect wont occur}
-2. **charm:** on a failed will save they are charmed by me and will try to impress me and save me from harm and will get dmg if i reject them (lvl)d10 psychic damage
-3. **Star Student:** learn any magic that i have seen. {needs to role a 1D100 to check success of learning the spell a role below 15 will permanently loose the chance of learning it}.
+1. **DAMAGE TRANSFER:** Can inflict the dmg delt to the user to the one who attacked, it nullifies the damage taken from said attack.
+2. **COPY CAT:** Can use any spell used in that round previously, a single round before) round.
 
 ### Abilities
 *Usable Class Level times per day*
 1. **PARALLEL CAST:** When activated the spell casted is duplicated without any mana.
-2. **COPY CAT:** Can use any spell used in that round previously, a single round before) round.
-3. **DAMAGE TRANSFER:** Can inflict the dmg delte to the user to the one who attacked, it nullifies the damage taken from said attack.
+2. **SHAPE CHANGE:** Can change into any living or non-living object of similar or smaller size and obtain their physical properties. For maximum of 12 hours.
+3. **Bardic Inspiration :** Can give an additional d10 to any roll  
 
 ---
 
 ## 🗡️ Weapons & Equipment
-| Equipment | Effect |     | Range | Dmg Type           | Actual Dmg |
-| :-------- | :----- | :-- | :---- | :----------------- | :--------- |
-| FLUTE     | sound  |     | -     | sound,wind,psychic |            |
 
 | Weapon | Effect | Dmg Formula | Range | Dmg Type | Actual Dmg |
-| :----- | :----- | :---------- | :---- | :------- | :--------- |
-|        |        |             |       |          |            |
-|        |        |             |       |          |            |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | | |
 
 ---
 
 ## 📜 Spells
 # Current Spells
 
-| Lvl | Spell                     |  Time   |              MP              | Effect                                                                                                                                                                                    | Range         | Duration                  | Dmg Formula   | Actual Dmg  |
-| :-: | :------------------------ | :-----: | :--------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ | :------------------------ | :------------ | :---------- |
-|  -  | **Alarm**                 |  1min   |              20              | You set an alarm against unwanted intrusion.                                                                                                                                              |               | 8 hours                   |               | 0           |
-|  -  | **Invisibility**          | 1 turn  |              40              | Will make a living or non living thing invisible to the naked eye                                                                                                                         | Touch         | 5turns/10min              |               | 0           |
-|  -  | **magic hand**            | 1 turn  |              20              | magical unseen hand that can do everything a hand can do in line of sight                                                                                                                 |               |                           | ss            |             |
-|  -  | **levitation**            | 1 turn  |              40              | U can move anything u touch freely in space up to 50 ft in height as u have 0 friction, gravity and air resistance.                                                                       | touch         | 5turns/10min              |               | fall damage |
-|  -  | **illusion**              | 1 turn  |              50              | We can create an illusion of sight, sound and smell in our line of sight as long as it isn't interacted with                                                                              |               | 1 hour                    |               | 0           |
-|  -  | **Forge creation**        | 1 turn  |              20              | Can create a non magical obj of the size of user or smaller if the user has seen the obj and understands its purpose. Can make replicas of magical objs without their magical properties. | self          | permanent                 |               |             |
-|  -  | **detect magic**          | 1 turn  |              20              | Can sence magic used in an area 30 ft radius                                                                                                                                              |               | 1 hour                    |               | 0           |
-|  -  | **prestidigitation**      | Instant |              5               | party tricks , conjuration and alteration , magical tricks that magician could do to impress crowd                                                                                        |               |                           |               |             |
-|  -  | **Web**                   | 1 turn  |              30              | It traps an entity in a physical net... DC 15 saves. Causes One turn to get out of the net                                                                                                |               |                           |               | 0           |
-|  -  | **dream**                 | 1 turn  |              50              | Invade someone's dream. DC 15 saves.                                                                                                                                                      | Touch         | untill one of us wakes up |               |             |
-|  -  | **Chain Lightning**       | 1 turn  |              60              | Can chain targets if they are 10 feet closer to each other (will hit allies if they are close to the target or the user)                                                                  |               |                           | `(IM+P)d8+IS` |             |
-|  -  | **ForceCage**             | 1 turn  |              40              | Can contain a creature of 25 ft cube can broken after being delt 100 dmg                                                                                                                  | 40ft          | Until broken              |               | 0           |
-|  -  | **counter spell**         | Instant | same mana of spell countered | Can negate the effect and damage of any spell casted(can be used as a reaction) and reflect it back with 1.5 force. can not be used against the spells that were cast some time ago       | 50ft          |                           |               |             |
-|  -  | **sleep**                 | 1 turn  |              40              | Puts creatures to sleep. DC 12 Int saves                                                                                                                                                  | touch         | 1 hour                    |               | 0           |
-|  -  | **mage armour**           | 1 turn  |              30              | Will increase ur resistance to magic (RN+20) DC 2                                                                                                                                         | touch         | 5turns/10min              |               | 0           |
-|  -  | **shield**                | Instant |              30              | Decreases the dmg taken by 50                                                                                                                                                             | Islf          | 1 turn                    |               | 0           |
-|  -  | **dispel magic**          | 1 turn  |      same mana of magic      | Can negate the effect and damage of any spell casted. can not used against spell that is being cast                                                                                       | line of sight |                           |               | 0           |
-|  -  | **enhance speed**         | 1 turn  |              40              | Can Increase the speed of a willing creature by 30ft                                                                                                                                      | touch         | 15turns/10min             |               | 0           |
-|  -  | **transfer mana**         | 1 turn  |              -               | Can transfer mana from self to a willing creature and vice versa                                                                                                                          | touch         |                           |               | 0           |
-|  -  | **enhance strength**      | 1 turn  |              40              | Can increase the dmg die by 1 and gives advantage on str rolls                                                                                                                            | touch         | 5turns/10min              |               | 0           |
-|  -  | **weight of feather**     | 1 turn  |              40              | Makes the creature have weight of a feather (advantage on stealth rolls)increases speed and jump by 10ft.                                                                                 | touch         |                           |               | 0           |
-|     | **Sound Blades**          | 1 turn  |                              | sharp vibrating wind blades equal to class level. can hit multiple targets                                                                                                                | 60ft          |                           | 1d10 each     |             |
-|     | **sound blast**           | 1 turn  |                              | concentrated sonic boom of sphere of radius 20ft                                                                                                                                          | line of sight |                           | (lvl)d10      |             |
-|     | **shatter**               | 1 turn  |                              | can shatter (glass,rock,cristal) like solid obj or dmg                                                                                                                                    | audiablity    |                           | (lvl)d6       |             |
-|     | **vacuous mockery**       | 1 turn  |                              | anything the target hear will hurt him psychologically. need int save dc 14 each turn. on every fail 1 damage die increases                                                               | audiablity    | max of 1 hour             | (turn)d6      |             |
-|     | **sound barrier**         | 1 turn  |                              | creats a barrier of sound if crossed destroys ear drum dc=(Lvl/10 + prof)                                                                                                                 |               |                           |               | 0           |
-|     | **dome of silence**       | 1 turn  |                              | creats a area where no sound can come or leave                                                                                                                                            | 30ft radious  |                           |               | 0           |
-|     | healing words             | 1 turn  |                              | heal by (Lvl/10)d6                                                                                                                                                                        |               |                           |               | 0           |
-|     | **glamarous performance** | 1 turn  |                              | attract attention of creaturs toward someone                                                                                                                                              |               | 10 min                    |               | 0           |
-|     | **message**               | instent |                              | makes a telepathic link between target and me                                                                                                                                             |               |                           |               | 0           |
-|     | **silver toung**          | instent |                              | higher chance of convincing anyone. needs a success role against dc                                                                                                                       | audiablity    |                           | 1D100         |             |
-|     | **fear me**               |         |                              | start fearing me and will try to stay away from me. people with strong will can resist it                                                                                                 | line of sight | day                       |               | 0           |
-|     | **HeartBeat**             | 1 turn  |                              | can hear and locate/isolate the heartbeat of the target                                                                                                                                   | 00            | day                       |               | 0           |
-|     | **Enchant wepons**        | 1 turn  |                              | give magical effects to wepon. someone must know the spell that will be transferred to the wepon.                                                                                         | touch         | 00                        |               |             |
-|     | **dancing clover**        | 1 turn  |                              | gives advantage on any role made                                                                                                                                                          |               | 5 turn/10 min             |               | 0           |
-|     | **dancing Black cat**     | 1 turn  |                              | gives disadvantage for any role made                                                                                                                                                      |               | 5 turn/10 min             |               | 0           |
+| Lvl | Spell                 |  Time   |               MP                | Effect                                                                                                                                                                                    | Range | Duration        | Dmg Formula   | Actual Dmg |
+| :-: | :-------------------- | :-----: | :-----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- | :-------------- | :------------ | :--------- |
+|  -  | **Alarm**             |  1min   |               20                | You set an alarm against unwanted intrusion.                                                                                                                                              |       | 8 hours         |               |            |
+|  -  | **Invisibility**      | 1 turn  |               40                | Will make a living or non living thing invisible to the naked eye                                                                                                                         | Touch | 5turns/10min    |               |            |
+|  -  | **magic hand**        | 1 turn  |               20                | magical unseen hand that can do everything a hand can do in line of sight                                                                                                                 |       |                 | ss            |            |
+|  -  | **levitation**        | 1 turn  |               40                | U can move anything u touch freely in space up to 50 ft in height as u have 0 friction, gravity and air resistance.                                                                       | touch | 5turns/10min    |               |            |
+|  -  | **illusion**          | 1 turn  |               50                | We can create an illusion of sight, sound and smell in our line of sight as long as it isn't interacted with                                                                              |       | 1 hour          |               |            |
+|  -  | **Forge creation**    | 1 turn  |               20                | Can create a non magical obj of the size of user or smaller if the user has seen the obj and understands its purpose. Can make replicas of magical objs without their magical properties. | self  | permanent       |               |            |
+|  -  | **detect magic**      | 1 turn  |               20                | Can detect magic used in an area 30 ft radius                                                                                                                                             |       |                 |               |            |
+|  -  | **prestidigitation**  | Instant |                5                | tricks                                                                                                                                                                                    |       |                 |               |            |
+|  -  | **Web**               | 1 turn  |               30                | It traps an entity in a physical net... DC 15 saves. Causes One turn to get out of the net                                                                                                |       | 10 turns/10 min |               |            |
+|  -  | **dream**             | 1 turn  |               50                | Invade someone's dream. DC 15 saves.                                                                                                                                                      | Touch | 1 hour          |               |            |
+|  -  | **Chain Lightning**   | 1 turn  |               60                | Can chain targets if they are 10 feet closer to each other (will hit allies if they are close to the target or the user)                                                                  |       |                 | `(IM+P)d8+IS` |            |
+|  -  | **ForceCage**         | 1 turn  |               40                | Can contain a creature of 25 ft cube can broken after being delt 100 dmg                                                                                                                  | 40ft  | Until broken    |               |            |
+|  -  | **counter spell**     | Instant | 2 x the mana of spell countered | Can negate the effect and damage of any spell casted(can be used as a reaction) and reflect it back with 1.5 force                                                                        | 50ft  |                 |               |            |
+|  -  | **sleep**             | 1 turn  |               40                | Puts creatures to sleep. DC 12 Int saves                                                                                                                                                  | touch | 1 hour          |               |            |
+|  -  | **mage armour**       | 1 turn  |               30                | Will increase ur resistance to magic (RN+20) DC 2                                                                                                                                         | touch | 5turns/10min    |               |            |
+|  -  | **shield**            | Instant |               30                | Decreases the dmg taken by 50                                                                                                                                                             | Islf  | 1 turn          |               |            |
+|  -  | **dispel magic**      | 1 turn  |        Costs 1.5 x mana         | Can negate the effect and damage of any spell casted                                                                                                                                      |       |                 |               |            |
+|  -  | **enhance speed**     | 1 turn  |               40                | Can Increase the speed of a willing creature by 10ft                                                                                                                                      | touch | 15turns/10min   |               |            |
+|  -  | **transfer mana**     | 1 turn  |                -                | Can transfer mana from self to a willing creature and vice versa                                                                                                                          | touch |                 |               |            |
+|  -  | **enhance strength**  | 1 turn  |               40                | Can increase the dmg die by 1 and gives advantage on str rolls                                                                                                                            | touch | 5turns/10min    |               |            |
+|  -  | **weight of feather** | 1 turn  |               40                | Makes the creature have weight of a feather (advantage on stealth rolls)increases speed and jump by 10ft.                                                                                 | touch |                 |               |            |
+|     | Sound Blades          |         |                                 |                                                                                                                                                                                           |       |                 |               |            |
+|     | sound blast           |         |                                 |                                                                                                                                                                                           |       |                 |               |            |
+|     | shatter               |         |                                 | can shatter (glass,rock,cristal) like solid obj or dmg of ( Lvl / 10 )d6                                                                                                                  |       |                 |               |            |
+|     | vacuous mockery       |         |                                 |                                                                                                                                                                                           |       |                 |               |            |
+|     | sound barrier         |         |                                 | creats a barrier of sound if crossed destroys ear drum dc=(Lvl/10 + prof)                                                                                                                 |       |                 |               |            |
+|     | dome of silence       |         |                                 | creats a area where no sound can come or leave                                                                                                                                            |       |                 |               |            |
+|     | healing words         |         |                                 | by (Lvl/10)d6                                                                                                                                                                             |       |                 |               |            |
+|     | glamarous performance |         |                                 | attract attention of creaturs toward someone                                                                                                                                              |       |                 |               |            |
+|     | message               |         |                                 | attract attention of creaturs toward someone                                                                                                                                              |       |                 |               |            |
+|     | silver toung          |         |                                 | higher chance of convinse anyone                                                                                                                                                          |       |                 |               |            |
+|     |                       |         |                                 |                                                                                                                                                                                           |       |                 |               |            |
 # Future Spells
-| Lvl | Spell                 |  Time  | MP  | Effect                                                                                                                                                            | Range         | Duration                       | Dmg Formula | Actual Dmg |
-| :-: | :-------------------- | :----: | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ | :----------------------------- | :---------- | :--------- |
-|     | **hypnotic Parton**   | 1 turn |     | puts in a trance like state making them unable to think properly or take actions. if they ever failed against this in past they have disadvantage this time DC=14 | line of sight |                                |             | 0          |
-|     | **command**           | 1 turn |     | those who are charmed , frightened , hypnotized by me will fallow my command                                                                                      |               |                                |             | 0          |
-|     | **dance of mermaids** | 1 turn |     | make dificult to target the usser advange on defence and attack on melle                                                                                          |               |                                |             | 0          |
-|     | **suggesion**         | 1 turn |     | consider my words as a possible course of action on a success will save and on failed will act as command DC=13                                                   |               |                                |             | 0          |
-|     | **word of god**       | 1 turn |     | inspire someone to to do good deed                                                                                                                                |               | 1 day                          |             | 0          |
-|     | **word of evil**      | 1 turn |     | inspire someone to do evil deed                                                                                                                                   |               | 1 day                          |             | 0          |
-|     | **cursed speech**     | 1 turn |     | on a failed save they will experience my words as a magical cures minor curses non leatheal. must make will save DC=13                                            |               | until i or a holly person undo |             |            |
-|     |                       |        |     |                                                                                                                                                                   |               |                                |             |            |
-|     |                       |        |     |                                                                                                                                                                   |               |                                |             |            |
+| Lvl | Spell             | Time | MP  | Effect                                                             | Range | Duration | Dmg Formula | Actual Dmg |
+| :-: | :---------------- | :--: | :-: | :----------------------------------------------------------------- | :---- | :------- | :---------- | :--------- |
+|     | hypnotic Parton   |      |     |                                                                    |       |          |             |            |
+|     | command           |      |     |                                                                    |       |          |             |            |
+|     | dance of mermaids |      |     | make dificult to target the usser advange on defence and attack    |       |          |             |            |
+|     | suggesion         |      |     | consider my words as a posible course of acction1must make wid sav |       |          |             |            |
+|     | word of god       |      |     | inspire someone to to do good deed                                 |       |          |             |            |
+|     | word of evil      |      |     | inspire someone to do evil deed                                    |       |          |             |            |
+|     | cursed speech     |      |     | minor curses non leatheal must make will save                      |       |          |             |            |
+|     |                   |      |     |                                                                    |       |          |             |            |
+|     |                   |      |     |                                                                    |       |          |             |            |
 
 ## Iventory
-
-| amount | Name         | effect        | duration   | formula |
-| ------ | ------------ | ------------- | ---------- | ------- |
-|        | mana portion | increase mana | until used |         |
-| 1      | flute        |               |            |         |
-|        |              |               |            |         |
+0x mana potion
