@@ -70,7 +70,7 @@ Cover:
 | **Origin**          | Bi-Racial (High elf x moon elf) |
 | **Background**      | Merchents                       |
 | Age                 | 22                              |
-| hight               | 6.9feet                         |
+| hight               | 6.9 feet                        |
 
 ---
 

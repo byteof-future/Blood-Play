@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2053318d384bb297",
+        "id": "70b451a3303955f7",
         "type": "tabs",
         "children": [
           {
-            "id": "585e8d961e994b8d",
+            "id": "e9ce0f284eebdb80",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,41 +17,8 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Hunter Moonshine"
-            }
-          },
-          {
-            "id": "c5c1db2020dc2dab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Characters/NPCs/Companions/Hunter's Companion/Storm.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Storm"
-            }
-          },
-          {
-            "id": "ed0519b3168fbbf2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Characters/PCs/Hunter Moonshine/a. Index of revisions.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "a. Index of revisions"
             }
           }
         ]
@@ -67,7 +33,7 @@
       {
         "id": "9939e3f53caf0101",
         "type": "tabs",
-        "dimension": 68.29268292682927,
+        "dimension": 74.32605905006419,
         "children": [
           {
             "id": "35f8fd0ec590996b",
@@ -76,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spell",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +80,7 @@
       {
         "id": "699a31cca925000d",
         "type": "tabs",
-        "dimension": 31.707317073170728,
+        "dimension": 25.67394094993581,
         "children": [
           {
             "id": "ce261f89e40ceaa6",
@@ -132,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "82e39816677d81c5",
@@ -150,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
+                "file": "00_Sessions/Future_Plans/7 th ring magnumopus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hunter Moonshine"
+              "title": "Backlinks for 7 th ring magnumopus"
             }
           },
           {
@@ -208,6 +173,16 @@
             }
           },
           {
+            "id": "6de974f20931b1aa",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
             "id": "7ec16723c7226afb",
             "type": "leaf",
             "state": {
@@ -233,7 +208,8 @@
                   "displayWeather": true,
                   "location": ""
                 },
-                "id": "ID_d94918dba91b"
+                "id": "ID_d94918dba91b",
+                "child": "ID_79f88838eaca"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -249,7 +225,8 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "560fe8eacdc5d2ff",
@@ -274,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,37 +267,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "585e8d961e994b8d",
+  "active": "e9ce0f284eebdb80",
   "lastOpenFiles": [
-    "01_Characters/PCs/Hunter Moonshine/a. Index of revisions.md",
-    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
-    "03_Compendium/Spellbook/All Spells/NewSpells/Charm_Person.md",
     "01_Characters/NPCs/Companions/Hunter's Companion/Storm.md",
-    "01_Characters/PCs/Green Skin/Strarrul Greenskin.md",
-    "01_Characters/Relationship Tree.md",
-    "03_Compendium/Spellbook/All Spells/NewSpells/Animate_Objects.md",
-    "03_Compendium/Spellbook/All Spells/NewSpells/Aid.md",
-    "The Party.canvas",
-    "Untitled 1.md",
-    "Untitled",
-    "Untitled.md",
-    "05_Assets/Templates/SpellTemplates/AegisSpellTemplate.md",
-    "03_Compendium/Spellbook/SpellsByTypes/AegisSpells.md",
-    "_INDEX/Main Party.md",
-    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine History.md",
+    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
+    "01_Characters/PCs/Hunter Moonshine/a. Index of revisions.md",
+    "01_Characters/PCs/Hunter Moonshine/test.md",
+    "02_World_Amanac/Cosmology/VIVESTERA_Cosmology_and_Theology.md",
     "03_Compendium/Spellbook/SpellBook.md",
     "03_Compendium/Spellbook/Spells Table.md",
     "03_Compendium/Spellbook/Class SpellBooks/AlchemistSpells.md",
     "03_Compendium/Spellbook/COMPLETE SPELL COMPENDIUM RENDITION TTRPG.md",
     "03_Compendium/Spellbook/Word of God.md",
     "01_Characters/PCs/Kael Issac/Kael Issac.md",
-    "02_World_Amanac/Cosmology/VIVESTERA_Cosmology_and_Theology.md",
     "02_World_Amanac/Cosmology/About the Universe.md",
     "01_Characters/PCs/Casion Wert/Casion Wert.md",
     "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
     "01_Characters/PCs/Lucien vorth/Lucien Vorth.md",
     "01_Characters/PCs/Flint Lockwood/Flint Lockwood.md",
+    "Indexes/BackgroundIndex.md",
+    "Indexes/OriginIndex.md",
+    "02_World_Amanac/History/COMPLETE_TIMELINE(Need's Fixing).md",
+    "Species/Hellborn.md",
+    "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Kingdoms/Union/Dwarven kingdom of Ayaman/Villages/Carcosa.md",
+    "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Reference_Material/About Aridonia/Aridonia.md",
+    "Species/Goliath.md",
+    "00_Sessions/Future_Plans/7 th ring magnumopus.md",
+    "00_Sessions/Future_Plans/4th layer.md",
+    "00_Sessions/Future_Plans/5th Layer.md",
     "01_Characters/PCs/Casion Wert",
+    "The Party.canvas",
     "02_World_Amanac/History/Timeline.canvas",
     "03_Compendium/Items/Magic Items",
     "update_species.ps1",
@@ -331,6 +306,7 @@
     "pcs_cleanup.ps1",
     "flora_cleanup.ps1",
     "templates_cleanup.ps1",
+    "monsters_cleanup.ps1",
     "05_Assets/Images/Characters/Vorth.png",
     "02_World_Amanac/History/Times/Untitled.canvas",
     "01_Characters/NPCs/Factions/Untitled.canvas",
