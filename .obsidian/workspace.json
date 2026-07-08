@@ -84,20 +84,6 @@
             }
           },
           {
-            "id": "b8e37e5d1e653353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rigel Corvus"
-            }
-          },
-          {
             "id": "78eeba12bb487a5c",
             "type": "leaf",
             "pinned": true,
@@ -114,35 +100,21 @@
             }
           },
           {
-            "id": "d0be8bb0243a0e1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Compendium/Spellbook/SpellBook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SpellBook"
-            }
-          },
-          {
             "id": "edf46ec131376812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_World_Amanac/Cosmology/VIVESTERA_Cosmology_and_Theology.md",
+                "file": "03_Compendium/Items/Weapons/Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIVESTERA_Cosmology_and_Theology"
+              "title": "Weapons"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -219,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "82e39816677d81c5",
@@ -284,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Compendium/Spellbook/SpellBook.md",
+                "file": "01_Characters/PCs/Casion Wert/Casion Wert.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SpellBook"
+              "title": "Outline of Casion Wert"
             }
           },
           {
@@ -388,20 +361,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d0be8bb0243a0e1c",
+  "active": "78eeba12bb487a5c",
   "lastOpenFiles": [
+    "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
+    "01_Characters/PCs/Kael Issac/Kael Issac.md",
+    "01_Characters/PCs/Green Skin/Strarrul Greenskin.md",
+    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
+    "01_Characters/PCs/Casion Wert/Casion Wert.md",
+    "03_Compendium/Items/Weapons/Weapons.md",
+    "05_Assets/Templates/CharacterTemplates/CharaterSheetTemplate.md",
+    "Prompts/Prompt4.md",
+    "Rough ideas/HOW TO FIGHT.md",
+    "02_World_Amanac/Cosmology/VIVESTERA_Cosmology_and_Theology.md",
+    "Reference_Material/Minecraft Build (Rust).md",
+    "03_Compendium/Spellbook/SpellBook.md",
     "03_Compendium/Spellbook/Spells Table.md",
     "03_Compendium/Spellbook/Class SpellBooks/AlchemistSpells.md",
     "03_Compendium/Spellbook/COMPLETE SPELL COMPENDIUM RENDITION TTRPG.md",
     "03_Compendium/Spellbook/Word of God.md",
-    "01_Characters/PCs/Kael Issac/Kael Issac.md",
-    "02_World_Amanac/Cosmology/VIVESTERA_Cosmology_and_Theology.md",
     "02_World_Amanac/Cosmology/About the Universe.md",
-    "01_Characters/PCs/Casion Wert/Casion Wert.md",
-    "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
     "01_Characters/PCs/Lucien vorth/Lucien Vorth.md",
     "01_Characters/PCs/Flint Lockwood/Flint Lockwood.md",
-    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
     "Indexes/BackgroundIndex.md",
     "Indexes/OriginIndex.md",
     "02_World_Amanac/History/COMPLETE_TIMELINE(Need's Fixing).md",
@@ -409,13 +389,6 @@
     "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Kingdoms/Union/Dwarven kingdom of Ayaman/Villages/Carcosa.md",
     "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Reference_Material/About Aridonia/Aridonia.md",
     "Species/Goliath.md",
-    "00_Sessions/Future_Plans/7 th ring magnumopus.md",
-    "00_Sessions/Future_Plans/4th layer.md",
-    "00_Sessions/Future_Plans/5th Layer.md",
-    "00_Sessions/Episodes/Episode - 0.md",
-    "00_Sessions/Act I Dungeon/Layer one.md",
-    "Monsters/Masque.md",
-    "01_Characters/PCs/Jeff/Jeff.md",
     "01_Characters/PCs/Casion Wert",
     "The Party.canvas",
     "02_World_Amanac/History/Timeline.canvas",

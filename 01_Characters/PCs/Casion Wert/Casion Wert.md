@@ -16,7 +16,7 @@ PlayerCover:
 | :---: | :---------: |
 |  30   |      6      |
 
-| Attribute Points | 57  |
+| Attribute Points | 00  |
 | ---------------- | --- |
 
 **Class Level** = floor(Level / 5)
@@ -24,29 +24,31 @@ PlayerCover:
 ---
 
 ## 🛡️ Core Stats
-*Modifier = floor(Score / 4)*
+*Modifier = floor(Score / 5)*
 
 | Stat             | Score | Modifier |
 | :--------------- | :---: | :------: |
-| **Strength**     |       |          |
-| **Resistance**   |       |          |
-| **Intelligence** |       |          |
-| **Health Score** |       |          |
-| **Mana Score**   |       |          |
+| **Strength**     |   5   |    1     |
+| **Resistance**   |  15   |    3     |
+| **Intelligence** |  10   |    2     |
+| **Health Score** |  10   |    2     |
+| **Mana Score**   |   5   |    1     |
 
 ### Derived Stats
-| Stat               | Value | Notes                      | temp RN |
-| :----------------- | :---: | :------------------------- | ------- |
-| **Resistance No.** |       | 5 × Resistance             |         |
-| **Total Mana**     |       | Base 100 + (MP Score × 20) |         |
+| Stat               | Value | Notes                                 |
+| :----------------- | :---: | :------------------------------------ |
+| **Resistance No.** |  45   | Resistance Score x Resistance Modifer |
+| **Total Mana**     |   5   |                                       |
+
 
 ### Health
 *Base HP = 100 + (HP Score × 10)*
 
 | Type                  | Current | Max | Ratio           |
 | :-------------------- | :-----: | :-: | :-------------- |
-| **Ward Health (WHP)** |         |     | Increased by +7 |
-| **Core Health (CHP)** |         |     | Increased by +3 |
+| **Ward Health (WHP)** |   140   | 140 | Increased by +7 |
+| **Core Health (CHP)** |   60    | 60  | Increased by +3 |
+
 
 ---
 
@@ -54,13 +56,13 @@ PlayerCover:
 
 | Sub-Stat         | Score | Sub-Stat         | Score |
 | :--------------- | :---: | :--------------- | :---: |
-| **Agility**      |       | **Intimidation** |       |
-| **Aim**          |       | **Perception**   |       |
-| **Coordination** |       | **Reflex**       |       |
-| **Deception**    |       | **Seduction**    |       |
-| **Dexterity**    |       | **Stealth**      |       |
-| **Ingenuity**    |       | **Will**         |       |
-| **Insight**      |       |                  |       |
+| **Agility**      |   3   | **Intimidation** |       |
+| **Aim**          |   5   | **Perception**   |   2   |
+| **Coordination** |   3   | **Reflex**       |   4   |
+| **Deception**    |  -2   | **Seduction**    |  -5   |
+| **Dexterity**    |   5   | **Stealth**      |       |
+| **Ingenuity**    |   2   | **Will**         |   2   |
+| **Insight**      |   3   |                  |       |
 
 ---
 
@@ -87,9 +89,9 @@ PlayerCover:
 
 | Name         | Level |
 | :----------- | :---: |
-| Musket       |       |
-| Compound bow |       |
-| Short Sword  |       |
+| Musket       |   3   |
+| Compound bow |   2   |
+| Short Sword  |   1   |
 
 
 ---
@@ -121,12 +123,12 @@ PlayerCover:
 
 ## 🗡️ Weapons & Equipment
 
-| Weapon           | Effect                       | Dmg Formula          | Range  | Dmg Type          | Actual Dmg      |
-| :--------------- | :--------------------------- | :------------------- | :----- | :---------------- | :-------------- |
-| **Shotgun **     | u can shoot every other turn | `(P+2)d20+Dex+Aim`   | +20 ft |                   | `dice: 2d20+13` |
-| **Compound bow** |                              | `(SM+1+P)d8+Aim+Dex` | 150 ft |                   | ``              |
-| Long sword       |                              | `(SM +P+1)d6+SS`     |        | Piercing,Slashing | `dice: 7d8+12`  |
-|                  |                              |                      |        |                   |                 |
+| Weapon           | Effect                       | Dmg Formula          | Range  | Dmg Type          | Actual Dmg     |
+| :--------------- | :--------------------------- | :------------------- | :----- | :---------------- | :------------- |
+| Musket           | u can shoot every other turn | `(P+2)d12+Dex*Aim`   | +20 ft |                   | `dice: `       |
+| **Compound bow** |                              | `(SM+1+P)d8+Aim+Dex` | 150 ft |                   | ``             |
+| short sword      |                              | `(SM +P+1)d6+SS`     |        | Piercing,Slashing | `dice: 7d8+12` |
+|                  |                              |                      |        |                   |                |
 
 
 ### Gear

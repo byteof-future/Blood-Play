@@ -23,7 +23,7 @@ RENDITION is a collaborative, narrative-focused tabletop roleplaying game where 
 
 - Strength (STR), Resistance (RES), Intelligence (INT), Health Points (HP), Mana Points (MP)
     
-- **Modifiers:** STR, RES, INT have Modifiers = floor(Score / 4)
+- **Modifiers:** STR, RES, INT have Modifiers = floor(Score / 5)
     
 - **HP System:** Split into Ward Health (WHP) and Core Health (CHP)
     

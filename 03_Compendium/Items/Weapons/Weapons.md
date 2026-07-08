@@ -2,37 +2,39 @@
 
 This compendium contains all standard historical weapons, modern firearms, unique PC custom weapons, and powerful magical artifacts available in the world.
 
-*Note: SM = Strength Modifier, RM = Resistance Modifier, SS = Strength Score, P = Proficiency. Aim is used for ranged checks.*
+*Note: SM = Strength Modifier, RM = Resistance Modifier, SS = Strength Score, P = Proficiency, RSM= Relevant stat modifier, RSS=. Aim is used for ranged checks.*
+
+Standard Weapon Formula- (P+x)dy+(RSM x RSS)
 
 ## Standard & Historical Weapons
 
-| Weapon                 | Effect                                                                                 | Dmg Formula              | Range      | Dmg Type | Actual Dmg                       |
-| :--------------------- | :------------------------------------------------------------------------------------- | :----------------------- | :--------- | :------- | :------------------------------- |
-| **Fist / Unarmed**     | Basic unarmed strike.                                                                  | `SS`                     | Melee      | Bludgeoning | |
-| **Dagger / Dirk**      | Light, Finesse, Throwable.                                                             | `(SM+1)d4+SS`            | Melee/20ft | Piercing | |
-| **Sickle**             | Light. Good for tripping.                                                              | `(SM+P)d4+SS`            | Melee      | Slashing | |
-| **Club / Cudgel**      | Light.                                                                                 | `(SM+P)d4+SS`            | Melee      | Bludgeoning | |
-| **Quarterstaff**       | Versatile (d8). Can be used to parry (+1 AC).                                          | `(SM+P)d6+SS`            | Melee      | Bludgeoning | |
-| **Short Sword**        | Light, Finesse. Good for dual-wielding.                                                | `(SM+P)d6+SS`            | Melee      | Piercing/Slashing | |
-| **Rapier**             | Finesse. Ignores light armor penalties.                                                | `(SM+P)d8+SS`            | Melee      | Piercing | |
-| **Scimitar / Cutlass** | Finesse. +1 to hit on horseback or ships.                                              | `(SM+P)d6+SS`            | Melee      | Slashing | |
-| **Longsword**          | Versatile (d10). Standard issue military blade.                                        | `(SM+P)d8+SS`            | Melee      | Slashing | |
-| **Katana**             | Versatile (d10). Finesse when used two-handed.                                         | `(SM+P)d8+SS`            | Melee      | Slashing | |
-| **Great Sword**        | Heavy, Two-Handed.                                                                     | `(SM+P+2)d10+SS`         | Melee      | Slashing | |
-| **Zweihander**         | Heavy, Two-Handed, Reach. Can hit two adjacent targets.                                | `(SM+P+2)d12+SS`         | Melee/5ft  | Slashing | |
-| **Hand Axe**           | Light, Throwable.                                                                      | `(SM+P)d6+SS`            | Melee/20ft | Slashing | |
-| **Battle Axe**         | Versatile (d10).                                                                       | `(SM+P)d8+SS`            | Melee      | Slashing | |
-| **Great Axe**          | Heavy, Two-Handed. Destroys wooden shields.                                            | `(SM+P+2)d12+SS`         | Melee      | Slashing | |
-| **Mace**               | Ignores 2 points of Armor RN.                                                          | `(SM+P)d6+SS`            | Melee      | Bludgeoning | |
-| **Morningstar**        | Ignores 2 points of Armor RN.                                                          | `(SM+P)d8+SS`            | Melee      | Bludgeoning/Piercing | |
-| **Flail**              | Ignores shields when rolling to hit.                                                   | `(SM+P)d8+SS`            | Melee      | Bludgeoning | |
-| **Warhammer**          | Versatile (d10).                                                                       | `(SM+P+1)d8+SS`          | Melee      | Bludgeoning | |
-| **Maul**               | Heavy, Two-Handed.                                                                     | `(SM+P+2)d12+SS`         | Melee      | Bludgeoning | |
-| **Spear**              | Versatile (d8), Throwable.                                                             | `(SM+P)d6+SS`            | Melee/30ft | Piercing | |
-| **Trident**            | Versatile (d8), Throwable. Can be used to pin.                                         | `(SM+P)d6+SS`            | Melee/20ft | Piercing | |
-| **Halberd / Glaive**   | Heavy, Two-Handed, Reach (+5 ft).                                                      | `(SM+P+1)d10+SS`         | +5 ft      | Slashing | |
-| **Pike / Lance**       | Heavy, Two-Handed, Reach (+10 ft). Disadvantage on targets within 5ft.                 | `(SM+P+2)d10+SS`         | +10 ft     | Piercing | |
-| **Whip**               | Finesse, Reach (+10 ft). Can be used to disarm.                                        | `(SM+P)d4+SS`            | +10 ft     | Slashing | |
+| Weapon                 | Effect                                                                 | Dmg Formula      | Range      | Dmg Type             | Actual Dmg |
+| :--------------------- | :--------------------------------------------------------------------- | :--------------- | :--------- | :------------------- | :--------- |
+| **Fist / Unarmed**     | Basic unarmed strike.                                                  | `SS`             | Melee      | Bludgeoning          |            |
+| **Dagger / Dirk**      | Light, Finesse, Throwable.                                             | `(SM+1)d4+SS`    | Melee/20ft | Piercing             |            |
+| **Sickle**             | Light. Good for tripping.                                              | `(SM+P)d4+SS`    | Melee      | Slashing             |            |
+| **Club / Cudgel**      | Light.                                                                 | `(SM+P)d4+SS`    | Melee      | Bludgeoning          |            |
+| **Quarterstaff**       | Versatile (d8). Can be used to parry (+1 AC).                          | `(SM+P)d6+SS`    | Melee      | Bludgeoning          |            |
+| **Short Sword**        | Light, Finesse. Good for dual-wielding.                                | `(SM+P)d6+SS`    | Melee      | Piercing/Slashing    |            |
+| **Rapier**             | Finesse. Ignores light armor penalties.                                | `(SM+P)d8+SS`    | Melee      | Piercing             |            |
+| **Scimitar / Cutlass** | Finesse. +1 to hit on horseback or ships.                              | `(SM+P)d6+SS`    | Melee      | Slashing             |            |
+| **Longsword**          | Versatile (d10). Standard issue military blade.                        | `(SM+P)d8+SS`    | Melee      | Slashing             |            |
+| **Katana**             | Versatile (d10). Finesse when used two-handed.                         | `(SM+P)d8+SS`    | Melee      | Slashing             |            |
+| **Great Sword**        | Heavy, Two-Handed.                                                     | `(SM+P+2)d10+SS` | Melee      | Slashing             |            |
+| **Zweihander**         | Heavy, Two-Handed, Reach. Can hit two adjacent targets.                | `(SM+P+2)d12+SS` | Melee/5ft  | Slashing             |            |
+| **Hand Axe**           | Light, Throwable.                                                      | `(SM+P)d6+SS`    | Melee/20ft | Slashing             |            |
+| **Battle Axe**         | Versatile (d10).                                                       | `(SM+P)d8+SS`    | Melee      | Slashing             |            |
+| **Great Axe**          | Heavy, Two-Handed. Destroys wooden shields.                            | `(SM+P+2)d12+SS` | Melee      | Slashing             |            |
+| **Mace**               | Ignores 2 points of Armor RN.                                          | `(SM+P)d6+SS`    | Melee      | Bludgeoning          |            |
+| **Morningstar**        | Ignores 2 points of Armor RN.                                          | `(SM+P)d8+SS`    | Melee      | Bludgeoning/Piercing |            |
+| **Flail**              | Ignores shields when rolling to hit.                                   | `(SM+P)d8+SS`    | Melee      | Bludgeoning          |            |
+| **Warhammer**          | Versatile (d10).                                                       | `(SM+P+1)d8+SS`  | Melee      | Bludgeoning          |            |
+| **Maul**               | Heavy, Two-Handed.                                                     | `(SM+P+2)d12+SS` | Melee      | Bludgeoning          |            |
+| **Spear**              | Versatile (d8), Throwable.                                             | `(SM+P)d6+SS`    | Melee/30ft | Piercing             |            |
+| **Trident**            | Versatile (d8), Throwable. Can be used to pin.                         | `(SM+P)d6+SS`    | Melee/20ft | Piercing             |            |
+| **Halberd / Glaive**   | Heavy, Two-Handed, Reach (+5 ft).                                      | `(SM+P+1)d10+SS` | +5 ft      | Slashing             |            |
+| **Pike / Lance**       | Heavy, Two-Handed, Reach (+10 ft). Disadvantage on targets within 5ft. | `(SM+P+2)d10+SS` | +10 ft     | Piercing             |            |
+| **Whip**               | Finesse, Reach (+10 ft). Can be used to disarm.                        | `(SM+P)d4+SS`    | +10 ft     | Slashing             |            |
 
 ---
 
@@ -69,13 +71,13 @@ This compendium contains all standard historical weapons, modern firearms, uniqu
 
 ## PC Unique & Signature Weapons
 
-| Weapon                 | Effect                                                                                 | Dmg Formula              | Range      | Dmg Type | Actual Dmg                       |
-| :--------------------- | :------------------------------------------------------------------------------------- | :----------------------- | :--------- | :------- | :------------------------------- |
-| **Coffin Nails**       | Custom Daggers. Cause 1 fatigue per use.                                               | `(SM*2+P)d6+(SS*2)+pcLvl`| Melee      | Piercing | |
-| **The Chrisman Blade** | Upon hitting CHP, X is increased by 1.                                                 | `(SM+P+2+1)d8+SS+(X*5)`  | Melee      | Slashing | |
-| **Golden Temptation**  | Can tempt enemies to attack. And can also scare.                                       | `(RM+P)d6+RS+10/SMd6+10` | Melee      | Varies   | |
-| **Great shield**       | Need to take a break after using this twice. Dmg Res and Dmg Dealt.                    | `(RM+P)(d6res/5mdr)`     | Melee      | Bludgeoning| |
-| **Dragon Bite**        | Natural Weapon.                                                                        | `(SM*2)d10+PCLVL`        | Melee      | Piercing | |
+| Weapon                 | Effect                                                              | Dmg Formula               | Range | Dmg Type    | Actual Dmg |
+| :--------------------- | :------------------------------------------------------------------ | :------------------------ | :---- | :---------- | :--------- |
+| **Coffin Nails**       | Custom Daggers. Cause 1 fatigue per use.                            | `(SM*2+P)d6+(SS*2)+pcLvl` | Melee | Piercing    |            |
+| **The Chrisman Blade** | Upon hitting CHP, X is increased by 1.                              | `(SM+P+2+1)d8+SS+(X*5)`   | Melee | Slashing    |            |
+| **Golden Temptation**  | Can tempt enemies to attack. And can also scare.                    | `(RM+P)d6+RS+10/SMd6+10`  | Melee | Varies      |            |
+| **Great shield**       | Need to take a break after using this twice. Dmg Res and Dmg Dealt. | `(RM+P)(d6res/5mdr)`      | Melee | Bludgeoning |            |
+| **Dragon Bite**        | Natural Weapon.                                                     | `(SM*2)d10+PCLVL`         | Melee | Piercing    |            |
 
 ---
 
