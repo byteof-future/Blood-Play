@@ -671,6 +671,62 @@
       "resultText": "1d10\n[10]",
       "timestamp": 1779342079968,
       "id": "XBdn_4sttK6x"
+    },
+    {
+      "result": "34",
+      "original": "6d6+12",
+      "resultText": "6d6+12\n[5, 1, 4, 5, 4, 3]+12",
+      "timestamp": 1783705451021,
+      "id": "YabjLmZvURVk"
+    },
+    {
+      "result": "85",
+      "original": "9d6+49",
+      "resultText": "9d6+49\n[6, 5, 1, 2, 3, 5, 5, 4, 5]+49",
+      "timestamp": 1783705451034,
+      "id": "1Af2vrOt_YvR"
+    },
+    {
+      "result": "35",
+      "original": "6d6+12",
+      "resultText": "6d6+12\n[4, 1, 6, 6, 2, 4]+12",
+      "timestamp": 1783705456273,
+      "id": "RgYq4w1SKUh2"
+    },
+    {
+      "result": "73",
+      "original": "9d6+49",
+      "resultText": "9d6+49\n[1, 4, 1, 4, 1, 4, 2, 1, 6]+49",
+      "timestamp": 1783705456274,
+      "id": "lyRUcXwFtp1b"
+    },
+    {
+      "result": "35",
+      "original": "6d6+12",
+      "resultText": "6d6+12\n[5, 5, 3, 5, 4, 1]+12",
+      "timestamp": 1783705458086,
+      "id": "btQiBJYQsFRI"
+    },
+    {
+      "result": "17",
+      "original": "4d10",
+      "resultText": "4d10\n[1, 5, 6, 5]",
+      "timestamp": 1783706412762,
+      "id": "LXgLnjnTvlzU"
+    },
+    {
+      "result": "29",
+      "original": "4d10",
+      "resultText": "4d10\n[3, 10, 7, 9]",
+      "timestamp": 1783706418388,
+      "id": "lc5F5BEfzdDl"
+    },
+    {
+      "result": "35",
+      "original": "4d10",
+      "resultText": "4d10\n[8, 9, 8, 10]",
+      "timestamp": 1783706421044,
+      "id": "32j0evPeB5qq"
     }
   ]
 }

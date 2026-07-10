@@ -26,26 +26,26 @@ Cover: "[[Issac.png]]"
 
 | Stat             | Score | Modifier |
 | :--------------- | :---: | :------: |
-| **Strength**     |  +16  |    +4    |
-| **Resistance**   |  +9   |    +2    |
-| **Intelligence** |  +7   |    +1    |
-| **Health Score** |  +5   |    -     |
-| **Mana Score**   |  +2   |    -     |
+| **Strength**     |       |          |
+| **Resistance**   |       |          |
+| **Intelligence** |       |          |
+| **Health Score** |       |          |
+| **Mana Score**   |       |          |
 
 
 ### Derived Stats
-| Stat               |  Value  | Notes                      |
-| :----------------- | :-----: | :------------------------- |
-| **Resistance No.** |   25    | 5 × Resistance             |
-| **Total Mana**     | 040/140 | Base 100 + (MP Score × 20) |
+| Stat               | Value | Notes |
+| :----------------- | :---: | :---- |
+| **Resistance No.** |       |       |
+| **Total Mana**     |       |       |
 
 ### Health
 *Base HP = 100 + (HP Score × 10)*
 
 | Type                  | Current | Max | Modifier        |
 | :-------------------- | :-----: | :-: | :-------------- |
-| **Ward Health (WHP)** |   105   | 105 | Increased by +7 |
-| **Core Health (CHP)** |   45    | 45  | Increased by +3 |
+| **Ward Health (WHP)** |         |     | Increased by +7 |
+| **Core Health (CHP)** |         |     | Increased by +3 |
 
 ---
 
@@ -53,13 +53,13 @@ Cover: "[[Issac.png]]"
 
 | Sub-Stat         | Score | Sub-Stat         | Score |
 | :--------------- | :---: | :--------------- | :---: |
-| **Agility**      |  +5   | **Intimidation** |  +5   |
-| **Aim**          |  +1   | **Perception**   |   -   |
-| **Coordination** |   -   | **Reflex**       |  +4   |
-| **Deception**    |   -   | **Seduction**    |  -10  |
-| **Dexterity**    |  +2   | **Stealth**      |  +10  |
-| **Ingenuity**    |   -   | **Will**         |  +5   |
-| **Insight**      |  +5   |                  |       |
+| **Agility**      |       | **Intimidation** |       |
+| **Aim**          |       | **Perception**   |       |
+| **Coordination** |       | **Reflex**       |       |
+| **Deception**    |       | **Seduction**    |       |
+| **Dexterity**    |       | **Stealth**      |       |
+| **Ingenuity**    |       | **Will**         |       |
+| **Insight**      |       |                  |       |
 
 ---
 
@@ -115,13 +115,13 @@ Cover: "[[Issac.png]]"
 
 ## 🗡️ Weapons & Equipment
 
-| Weapon                    | Effect                  | Dmg Formula               | Range      | Dmg Type | Actual Dmg     |
-| :------------------------ | :---------------------- | :------------------------ | :--------- | :------- | :------------- |
-| **Dagger**                |                         | `(SM+1)d6+SS`             | Arm length |          | `dice: 6d6+12` |
-| **Short bow**             |                         | `(SM+A+P)d6(Aim)`         | 50 ft      |          | `6d6`          |
-| **Fist**                  |                         | `(ss)`                    |            |          |                |
-| **Coffin Nails(daggers)** | Cause 1 fatigue per use | `(SM*2+P)d6+(SS*2)+pcLvl` |            |          | `dice: 9d6+49` |
-|                           |                         |                           |            |          |                |
+| Weapon                    | Effect                  | Dmg Formula | Range      | Dmg Type | Actual Dmg |
+| :------------------------ | :---------------------- | :---------- | :--------- | :------- | :--------- |
+| **Dagger**                |                         |             | Arm length |          |            |
+| **Short bow**             |                         |             | 50 ft      |          |            |
+| **Fist**                  |                         |             |            |          |            |
+| **Coffin Nails(daggers)** | Cause 1 fatigue per use |             |            |          |            |
+|                           |                         |             |            |          |            |
 
 
 ### Gear

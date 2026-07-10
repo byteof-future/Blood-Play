@@ -7,7 +7,6 @@ Range: Self
 CastingTime: Bonus Action
 Duration: 10 Min
 ---
-
 # Silver Tongue
 *Level 1 Bard Spell*
 

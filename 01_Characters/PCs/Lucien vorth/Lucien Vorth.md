@@ -12,9 +12,9 @@ Cover: "[[Vorth.png]]"
 
 | Level | Class Level |
 | :---: | :---------: |
-|  25   |      5      |
+|  30   |      6      |
 
-| Attribute Points | 5   |
+| Attribute Points | 57  |
 | ---------------- | --- |
 
 **Class Level** = floor(Level / 5)
@@ -26,25 +26,25 @@ Cover: "[[Vorth.png]]"
 
 | Stat             | Score | Modifier |
 | :--------------- | :---: | :------: |
-| **Strength**     |  +5   |    +1    |
-| **Resistance**   |  +4   |    +1    |
-| **Intelligence** |  +12  |    +3    |
-| **Health Score** |  +5   |    -     |
-| **Mana Score**   |  +12  |    -     |
+| **Strength**     |       |          |
+| **Resistance**   |       |          |
+| **Intelligence** |       |          |
+| **Health Score** |       |          |
+| **Mana Score**   |       |          |
 
 ### Derived Stats
-| Stat               |  Value  | Notes                      | Temp RN |
-| :----------------- | :-----: | :------------------------- | ------- |
-| **Resistance No.** |   20    | 5 × Resistance             |         |
-| **Total Mana**     | 340/340 | Base 100 + (MP Score × 20) |         |
+| Stat               | Value | Notes | Temp RN |
+| :----------------- | :---: | :---- | ------- |
+| **Resistance No.** |       |       |         |
+| **Total Mana**     |       |       |         |
 
 ### Health
 *Base HP = 100 + (HP Score × 10)*
 
 | Type                  | Current | Max | Modifier        |
 | :-------------------- | :-----: | :-: | :-------------- |
-| **Ward Health (WHP)** |   90    | 90  | Increased by +6 |
-| **Core Health (CHP)** |   60    | 60  | Increased by +4 |
+| **Ward Health (WHP)** |         | 60  | Increased by +6 |
+| **Core Health (CHP)** |         | 40  | Increased by +4 |
 
 ---
 
@@ -52,13 +52,13 @@ Cover: "[[Vorth.png]]"
 
 | Sub-Stat         | Score | Sub-Stat         | Score |
 | :--------------- | :---: | :--------------- | :---: |
-| **Agility**      |   0   | **Intimidation** |  +2   |
-| **Aim**          |   0   | **Perception**   |  +1   |
-| **Coordination** |   0   | **Reflex**       |  +1   |
-| **Deception**    |  +4   | **Seduction**    |  -3   |
-| **Dexterity**    |   0   | **Stealth**      |   0   |
-| **Ingenuity**    |   0   | **Will**         |  +7   |
-| **Insight**      |  +2   |                  |       |
+| **Agility**      |       | **Intimidation** |       |
+| **Aim**          |       | **Perception**   |       |
+| **Coordination** |       | **Reflex**       |       |
+| **Deception**    |       | **Seduction**    |       |
+| **Dexterity**    |       | **Stealth**      |       |
+| **Ingenuity**    |       | **Will**         |       |
+| **Insight**      |       |                  |       |
 
 ---
 
@@ -82,13 +82,13 @@ Cover: "[[Vorth.png]]"
 ### Proficiency
 *Every 5 Levels (1 Class Level) = 1 Proficiency Point*
 
-Proficiency points = 2
+Proficiency points = 
 
 | Name         | Level |
 | :----------- | :---: |
-| Longsword    |   2   |
-| Short Melee  |   0   |
-| Energy magic |   2   |
+| Longsword    |       |
+| Short Melee  |       |
+| Energy magic |       |
 
 
 ---
@@ -121,10 +121,10 @@ Proficiency points = 2
 
 ## 🗡️ Weapons & Equipment
 
-| Weapon                  | Effect                                | Dmg Formula             | Range | Dmg Type | Actual Dmg         |
-| :---------------------- | :------------------------------------ | :---------------------- | :---- | :------- | :----------------- |
-| ** The Chrismon Blade** | Upon hitting CHP X is increased by 1. | `(SM+P+N+1)d8+SS+(X*5)` | Melee | Slashing | `6*d8 + 5 + (D*5)` |
-| **Dragon bite**         |                                       | `(SM*2)d10+PCLVL`       |       |          | `2d10+20`          |
+| Weapon                  | Effect                                | Dmg Formula | Range | Dmg Type | Actual Dmg |
+| :---------------------- | :------------------------------------ | :---------- | :---- | :------- | :--------- |
+| ** The Chrismon Blade** | Upon hitting CHP X is increased by 1. |             | Melee | Slashing |            |
+| **Dragon bite**         |                                       |             |       |          |            |
 
 ### Gear
 * Adventuring armour

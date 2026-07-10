@@ -28,25 +28,25 @@ Cover:
 
 | Stat             | Score | Modifier |
 | :--------------- | :---: | :------: |
-| **Strength**     |  12   |    +3    |
-| **Resistance**   |   7   |          |
-| **Intelligence** |   0   |          |
-| **Health Score** |   6   |          |
-| **Mana Score**   |   0   |          |
+| **Strength**     |       |          |
+| **Resistance**   |       |          |
+| **Intelligence** |       |          |
+| **Health Score** |       |          |
+| **Mana Score**   |       |          |
 
 ### Derived Stats
-| Stat               | Value | Notes                      |
-| :----------------- | :---: | :------------------------- |
-| **Resistance No.** |  35   | 5 × Resistance             |
-| **Total Mana**     |  100  | Base 100 + (MP Score × 20) |
+| Stat               | Value | Notes |
+| :----------------- | :---: | :---- |
+| **Resistance No.** |       |       |
+| **Total Mana**     |       |       |
 
 ### Health
 *Base HP = 100 + (HP Score × 10)*
 
 | Type                  | Current | Max | Ratio           |
 | :-------------------- | :-----: | :-: | :-------------- |
-| **Ward Health (WHP)** |   112   | 70  | Increased by +7 |
-| **Core Health (CHP)** |   48    | 30  | Increased by +3 |
+| **Ward Health (WHP)** |         |     | Increased by +7 |
+| **Core Health (CHP)** |         |     | Increased by +3 |
 
 
 ---
@@ -55,12 +55,12 @@ Cover:
 
 | Sub-Stat         | Score | Sub-Stat         | Score |
 | :--------------- | :---: | :--------------- | :---: |
-| **Agility**      |       | **Intimidation** |   5   |
-| **Aim**          |       | **Perception**   |   1   |
-| **Coordination** |       | **Reflex**       |   3   |
+| **Agility**      |       | **Intimidation** |       |
+| **Aim**          |       | **Perception**   |       |
+| **Coordination** |       | **Reflex**       |       |
 | **Deception**    |       | **Seduction**    |       |
 | **Dexterity**    |       | **Stealth**      |       |
-| **Ingenuity**    |       | **Will**         |   3   |
+| **Ingenuity**    |       | **Will**         |       |
 | **Insight**      |       |                  |       |
 
 ---

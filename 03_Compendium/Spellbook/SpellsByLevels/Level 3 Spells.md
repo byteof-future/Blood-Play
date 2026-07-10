@@ -4,7 +4,7 @@ tags:
 ---
 ```dataview
 TABLE SpellLevel, MPCost, CastingMethod, Range, CastingTime, Duration
-From "Spells/All Spells"
+
 WHERE SpellLevel = 3
 Sort SpellLevel ASC
 
