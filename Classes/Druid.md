@@ -1,5 +1,5 @@
 _"Guardians of the wild, wielding nature's wrath and the power of shapeshifting."_
-
+**Mana Dependency** : 3/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Nature's Wrath:** While in a wild shape, your attacks deal an additional 1d10 elemental damage corresponding to your current environment (fire in desert, cold in snow, poison in swamp, etc).

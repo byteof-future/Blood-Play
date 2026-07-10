@@ -1,5 +1,5 @@
 _"Scholars of the arcane arts, wielding a vast spellbook of ultimate cosmic power."_
-
+**Mana Dependency** : 5/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Arcane Supremacy:** Spells you cast ignore magical resistances and immunities. (If a target is immune to Fire, they take full Fire damage anyway).

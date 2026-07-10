@@ -14,9 +14,9 @@ Cover: "[[Greenskin.png]]"
 
 | Level | Class Level |
 | :---: | :---------: |
-|  25   |      5      |
+|  30   |      6      |
 
-| Attribute Points | 0   |
+| Attribute Points | 5   |
 | ---------------- | --- |
 
 **Class Level** = floor(Level / 5)
@@ -24,21 +24,22 @@ Cover: "[[Greenskin.png]]"
 ---
 
 ## 🛡️ Core Stats
-*Modifier = floor(Score / 4)*
+*Modifier = floor(Score / 5)*
 
 | Stat             | Score | Modifier |
 | :--------------- | :---: | :------: |
-| **Strength**     |  +16  |    +4    |
-| **Resistance**   |  +6   |    +1    |
+| **Strength**     |  +16  |    +3    |
+| **Resistance**   |  +11  |    +2    |
 | **Intelligence** |  +1   |    +0    |
 | **Health Score** |  +5   |    -     |
-| **Mana Score**   |  +7   |    -     |
+| **Mana Score**   |  +7   |    +1    |
+
 
 ### Derived Stats
-| Stat               |  Value  | Notes                      | temp RN |
-| :----------------- | :-----: | :------------------------- | ------- |
-| **Resistance No.** |   30    | 5 × Resistance             |         |
-| **Total Mana**     | 260/260 | Base 100 + (MP Score × 20) |         |
+| Stat               |  Value  | Notes                                  | temp RN |
+| :----------------- | :-----: | :------------------------------------- | ------- |
+| **Resistance No.** |    6    | Resistance Score x Resistance Modifier |         |
+| **Total Mana**     | 260/260 | Base 100 + (MP Score × 20)             |         |
 
 ### Health
 *Base HP = 100 + (HP Score × 10)*
@@ -155,10 +156,10 @@ Process of choosing the number : either a dice roll or I choose the number, if I
 
 | Lvl | Spell               |     Time     | MP  | Effect                                                                             | Range | Duration       | Dmg Formula | Actual Dmg |
 | :-: | :------------------ | :----------: | :-: | :--------------------------------------------------------------------------------- | :---- | :------------- | :---------- | :--------- |
-|  -  | **Minor Heal**      |   Instant    | 20  | Can heal a creatures WHP                                                           | Touch | none           | `IMd6+ IS`  | `d6+1`     |
+|  -  | **Minor Heal**      |   Instant    |  1  | Can heal a creatures WHP                                                           | Touch | none           | `IMd6+ IS`  | `d6+1`     |
 |  -  | **Shine**           |   Instant    | 20  | You light up an area around you increasing your vision...                          | 20ft  | 15 turns/30min |             |            |
 |  -  | **Iron body**       |   Instant    | 50  | Doubles your dmg reduced but gives you 2 point of fatigue                          |       | 5turns/10min   |             |            |
-|  -  | **Major heal**      |    1 turn    | 40  | Can heal a creatures WHP and CHP by                                                | Touch | none           | `<M>d10+IS` | `<d10>+1`  |
+|  -  | **Major heal**      |    1 turn    |  2  | Can heal a creatures WHP and CHP by                                                | Touch | none           | `<M>d10+IS` | `<d10>+1`  |
 |  -  | **Enchant**         |    1 turn    | 20  | Can enchant any weapon for a single time increasing its die count by 2.ex (X+2)dy. | Touch | 5turns/10min   | `(X+2)dX`   |            |
 |  -  | **Holy Light**      |    1 turn    | 40  | Cures Dizeas, Calms Emotions, Heals Whp, Removes madness, Cures Possession,        | touch |                |             |            |
 |  -  | **Purify**          |    1 turn    | 40  | Can turn 1 L normal water into holy water (can do this once a day)                 | touch |                |             |            |

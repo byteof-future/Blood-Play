@@ -1,5 +1,5 @@
 _"Mages who derive their magic from a dangerous pact with a powerful patron."_
-
+**Mana Dependency** : 5/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Pact's Price:** When you roll maximum damage on any spell die (e.g., an 8 on a d8), the die "explodes." You roll it again and add the new damage. This can chain infinitely.

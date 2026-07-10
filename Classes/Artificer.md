@@ -1,5 +1,5 @@
 _"Inventors, engineers, and masters of magical machinery."_
-
+**Mana Dependency** : 1/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Overclock:** Your magical items, guns, and gadgets have a 50% chance not to consume durability or charges when used.

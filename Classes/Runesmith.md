@@ -1,5 +1,5 @@
 _"Artisans of ancient magic, carving raw elemental power into stone and steel."_
-
+**Mana Dependency** : 3/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Runic Master:** You can carve runes instantaneously (costs 0 AP) and you can maintain double the normal amount of active runes simultaneously.

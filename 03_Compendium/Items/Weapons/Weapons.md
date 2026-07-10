@@ -2,7 +2,9 @@
 
 This compendium contains all standard historical weapons, modern firearms, unique PC custom weapons, and powerful magical artifacts available in the world.
 
-*Note: SM = Strength Modifier, RM = Resistance Modifier, SS = Strength Score, P = Proficiency. Aim is used for ranged checks.*
+*Note: SM = Strength Modifier, RM = Resistance Modifier, SS = Strength Score, P = Proficiency, RSM= Relevant stat modifier, RSS=. Aim is used for ranged checks.*
+
+Standard Weapon Formula- (P+x)dy+(RSM x RSS)
 
 ## Standard & Historical Weapons
 

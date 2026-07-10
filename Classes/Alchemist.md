@@ -1,5 +1,5 @@
 _"Masters of chemical reactions, potions, and mutations."_
-
+**Mana Dependency** : 2/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Philosopher's Stone:** You can convert your own HP directly into MP, and MP directly into HP, as a free action without limits.

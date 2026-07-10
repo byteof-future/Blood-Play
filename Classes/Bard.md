@@ -1,5 +1,5 @@
 _"Artists who use magic through performance, charm, and illusion."_
-
+**Mana Dependency** : 4/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Encore:** Once per combat, you can grant an ally a free, immediate action that interrupts the current turn order.

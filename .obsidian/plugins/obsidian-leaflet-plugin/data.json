@@ -1,137 +1,6 @@
 {
   "mapMarkers": [
     {
-      "id": "Vivestera",
-      "lastAccessed": 1783183424391,
-      "markers": [
-        {
-          "id": "ID_18aa1a381ab8",
-          "type": "default",
-          "loc": [
-            519.7500457763672,
-            1686.5001220703125
-          ],
-          "link": "Aridonia",
-          "layer": "%5B%5BVivestera.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "This is the Continent Where Blood Play Takes Place",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fa080b184a09",
-          "type": "default",
-          "loc": [
-            970.7500305175781,
-            1566.300048828125
-          ],
-          "link": "Orynt",
-          "layer": "%5B%5BVivestera.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a8e8e87a7879",
-          "type": "default",
-          "loc": [
-            1066.3500061035156,
-            980.7000732421875
-          ],
-          "link": "The Girdle",
-          "layer": "%5B%5BVivestera.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_aa396a3ad83a",
-          "type": "default",
-          "loc": [
-            772.4499969482422,
-            987.9499969482422
-          ],
-          "link": "Helica",
-          "layer": "%5B%5BVivestera.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.9647949188947678,
-            -1.0057942668596904
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0a98f9b9987a",
-          "type": "default",
-          "loc": [
-            473.9500427246094,
-            972.7000732421875
-          ],
-          "link": "Sunder-Isle",
-          "layer": "%5B%5BVivestera.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_f83a0b58bba9",
-          "type": "default",
-          "loc": [
-            469.9500427246094,
-            398.300048828125
-          ],
-          "link": "Austra",
-          "layer": "%5B%5BVivestera.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1a4bd8b94b59",
-          "type": "default",
-          "loc": [
-            977.9500427246094,
-            484.300048828125
-          ],
-          "link": "Boreas",
-          "layer": "%5B%5BVivestera.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": []
-    },
-    {
       "id": "Aridonia",
       "locked": false,
       "lastAccessed": 1783193948853,
@@ -553,6 +422,139 @@
       "shapes": [],
       "files": [
         "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Reference_Material/About Aridonia/Aridonia.md"
+      ]
+    },
+    {
+      "id": "Vivestera",
+      "lastAccessed": 1783699437756,
+      "markers": [
+        {
+          "id": "ID_18aa1a381ab8",
+          "type": "default",
+          "loc": [
+            519.7500457763672,
+            1686.5001220703125
+          ],
+          "link": "Aridonia",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "This is the Continent Where Blood Play Takes Place",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa080b184a09",
+          "type": "default",
+          "loc": [
+            970.7500305175781,
+            1566.300048828125
+          ],
+          "link": "Orynt",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8e8e87a7879",
+          "type": "default",
+          "loc": [
+            1066.3500061035156,
+            980.7000732421875
+          ],
+          "link": "The Girdle",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa396a3ad83a",
+          "type": "default",
+          "loc": [
+            772.4499969482422,
+            987.9499969482422
+          ],
+          "link": "Helica",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9647949188947678,
+            -1.0057942668596904
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a98f9b9987a",
+          "type": "default",
+          "loc": [
+            473.9500427246094,
+            972.7000732421875
+          ],
+          "link": "Sunder-Isle",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f83a0b58bba9",
+          "type": "default",
+          "loc": [
+            469.9500427246094,
+            398.300048828125
+          ],
+          "link": "Austra",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a4bd8b94b59",
+          "type": "default",
+          "loc": [
+            977.9500427246094,
+            484.300048828125
+          ],
+          "link": "Boreas",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "02_World_Amanac/Atlas/4_Vivestera/Vivestera.md"
       ]
     }
   ],

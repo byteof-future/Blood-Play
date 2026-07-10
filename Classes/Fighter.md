@@ -1,6 +1,6 @@
 _"Masters of combat and weaponry."_
 
-
+**Mana Dependency** : 1/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass._
 **Weapon Master - Critical hits deal x3 damage and ignore physical resistance.**

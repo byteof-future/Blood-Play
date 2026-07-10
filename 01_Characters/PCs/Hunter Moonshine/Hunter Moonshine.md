@@ -21,15 +21,16 @@ Cover:
 ---
 
 ## 🛡️ Core Stats
-*Modifier = floor(Score / 4)*
+*Modifier = floor(Score / 5)*
 
 | Stat             | Score | Modifier |
 | :--------------- | :---: | :------: |
 | **Strength**     |  +2   |    +     |
 | **Resistance**   |  +4   |    +1    |
-| **Intelligence** |  +8   |    +2    |
+| **Intelligence** |  +8   |    +1    |
 | **Health Score** |  +8   |    -     |
-| **Mana Score**   |  +8   |    -     |
+| **Mana Score**   |  +8   |    +1    |
+
 
 ### Derived Stats
 | Stat               |  Value  | Notes                               |

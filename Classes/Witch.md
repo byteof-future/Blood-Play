@@ -1,5 +1,5 @@
 _"Mystics who wield curses, hexes, and blood magic."_
-
+**Mana Dependency** : 5/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Hexweaver:** Enemies suffering from your curses, hexes, or blights cannot heal by any means (magical or natural) until the curse is lifted.

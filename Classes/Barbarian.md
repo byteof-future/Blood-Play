@@ -1,5 +1,5 @@
 _"Fierce warriors fueled by primal rage and unyielding endurance."_
-
+**Mana Dependency** : 1/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Blood Thirsty:** Deals 2x damage once after every time you hit a target's CHP.

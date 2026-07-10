@@ -1,5 +1,5 @@
 _"Holy knights sworn to an oath, wielding martial prowess and divine smites."_
-
+**Mana Dependency** : 2/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Aegis of the Just:** Allies within 15ft share your Resistance modifier. If they take damage, you can choose to take it instead.

@@ -1,5 +1,5 @@
 _"Masters of death magic, raising the fallen and draining the life from the living."_
-
+**Mana Dependency** : 4/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Legion:** You have no cap on the number of undead minions you can control simultaneously, provided you have the MP to sustain them.

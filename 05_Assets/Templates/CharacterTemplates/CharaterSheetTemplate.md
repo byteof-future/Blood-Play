@@ -23,7 +23,7 @@ PlayerCover:
 ---
 
 ## 🛡️ Core Stats
-*Modifier = floor(Score / 4)*
+*Modifier = floor(Score / 5)*
 
 | Stat             | Score | Modifier |
 | :--------------- | :---: | :------: |
@@ -34,10 +34,10 @@ PlayerCover:
 | **Mana Score**   |       |          |
 
 ### Derived Stats
-| Stat               | Value | Notes                      | temp RN |
-| :----------------- | :---: | :------------------------- | ------- |
-| **Resistance No.** |       | 5 × Resistance             |         |
-| **Total Mana**     |       | Base 100 + (MP Score × 20) |         |
+| Stat               | Value | Notes                                 | temp RN |
+| :----------------- | :---: | :------------------------------------ | ------- |
+| **Resistance No.** |       | Resistance Score x Resistance Modifer |         |
+| **Total Mana**     |       | Base 100 + (MP Score × 20)            |         |
 
 ### Health
 *Base HP = 100 + (HP Score × 10)*
