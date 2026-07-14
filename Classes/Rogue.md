@@ -1,5 +1,7 @@
 _"Masters of stealth, assassination, and exploiting enemy weaknesses."_
 **Mana Dependency** : 2/5
+**Spell Capacity:** 10
+**Spell Capacity Auto Increase:** 1 per 10 lvl
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Shadow Strike:** Your attacks from stealth automatically bypass AHP and deal direct damage to the target's Core Health (CHP).
