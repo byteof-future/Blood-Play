@@ -30,10 +30,8 @@ RENDITION is a collaborative, narrative-focused tabletop roleplaying game where 
     - Ratio is species-dependent (e.g., Hobgoblin: +7 WHP, +3 CHP per HP point)
         
     - Base HP = 100 + (HP Score × 10)
-        
-    - Base MP = 100 + (MP Score × 20)
 	    
-    - Resistance Number(RN) = 5 x Resistance
+    - Resistance Number(RN) = Resistance Score x Resistance Modifier
     
 - 
 
@@ -106,15 +104,15 @@ Fighter, Rogue, Barbarian, Ranger, Paladin, Bard, Sorcerer, Wizard, Cleric, Monk
 
 ### **Turn Structure**
 
-- **Time Scale:** 1 Turn = 2 Minutes in-game
+- **Time Scale:** 1 Round = 2 Minutes in-game
     
 - **Conversions:**
     
-    - 5 Turns = 10 Minutes
+    - 5 Rounds = 10 Minutes
         
-    - 15 Turns = 30 Minutes
+    - 15 Rounds = 30 Minutes
         
-    - 30 Turns = 60 Minutes
+    - 30 Rounds = 60 Minutes
         
 
 **Per Turn Actions:**
@@ -123,88 +121,47 @@ Fighter, Rogue, Barbarian, Ranger, Paladin, Bard, Sorcerer, Wizard, Cleric, Monk
     
 2. **One Bonus Action** (Retreat, Dash, Hide, etc.)
     
-3. **Use Skills/Abilities**(Abilities can be used in combination with Attacking/Casting  a spell or a bonus action)
+3. **Use Skills/Abilities**(only one skill and ability can be used per turn along with action & bonus Action)
     
-4. **One Free Action** (Communication, simple interaction)
+4. ** Free Action** (Communication, simple interaction)
     
 
 ### **Attack Resolution Sequence**
 
 **Step 1: Calculate DMGA (Damage Roll)**
 
-- **Physical:** DMGA = (SM × (dX + P)) + SS
+- DMGA = (p+x)dy +((RSM or RSS) x RSS)
     
-    - SM = Strength Modifier, P = Proficiency, SS = Strength Score, dX = X-sided die
-        
-- **Spell:** DMGA = (IM × (dX + P) + IS
+    - P = Proficiency, dy = y-sided die RSM= Relevant stat modifier, RSS=Relevant Stat Score where x is a positive int greater than 1
     
-    - IM = Intelligence Modifier, IS = Intelligence Score
-        
+**Step 2: Subtract DMGA from Total Resistance**
 
-**Step 2: Check Armor**
+Total Resistance(TR) = Resistance Number (RN) +ARN (Armor Resistance Number)
+DMG=DMGA-TR
 
-- If target has armor AND damage type doesn't bypass armor:(AC is Armor Class)
-    
-    - ARN = AC × 5 (Armor Resistance Number)
-        
-    - AHP = Current Armor Health (AC × 1000 max)
-        
-- **If ARN ≥ DMGA:**
-    
-    - AHP = AHP - DMGA
-        
-    - DMGT = 0 (no damage through)
-        
-- **If ARN < DMGA:**
-    
-    - AHP = AHP - DMGA
-        
-    - DMGT = DMGA - ARN (damage that penetrates)
-        
+**Step 3: Subtract the DMG from ward health**
 
-**Step 3: Apply Damage Type Modifiers to DMGT**
+DMGA-TR will be the dmg taken by the player or the enemy 
+this dmg will reduce their WHP(if its a simple attack like blunt or slashing but if its a piercing attack it will deal dmg to CHP)
 
-- Each damage type has specific post-armor effects (see Damage Type table)
-    
-
-**Step 4: Resolve vs Resistance & Health**
-
-- RN = RES × 4 (Resistance Number)
-    
-- **If DMGT ≤ RN:** WHP = WHP - DMGT
-    
-- **If DMGT > RN:**
-    
-    - FDMG = DMGT - RN
-        
-    - WHP = WHP - DMGT
-        
-    - CHP = CHP - FDMG
-        
-
-**Step 5: Apply Damage Type Effects**
-
-- Bleeding, ongoing damage, status effects, etc.
-    
-
-**Special Case:** If target has no armor (ARN = 0), DMGA acts as DMGT directly.
-
+once WHP is 0, CHP will start to take hits
 ### **Damage Types Table**(work in progress)
 
-| Type          | Effect                                                  | Notes                                                    |
-| ------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| **Blunt**     | 2 x DMG to Solid(tough) Enemies(Rock Golem)             | Is ineffective Against Squishy Targets(0.5 x DMG)(Slime) |
-| **Piercing**  | Effective against Meaty (Squishy)foe's(Humans)(2 x DMG) | Ineffective Against Tough foe's(Rock Golem)(0.5 x DMG)   |
-| **Slashing**  | ...                                                     |                                                          |
-| **Acid**      |                                                         |                                                          |
-| **Fire**      |                                                         |                                                          |
-| **Cold**      |                                                         |                                                          |
-| **Lightning** |                                                         |                                                          |
-| **Poison**    |                                                         |                                                          |
-| **Psionic**   |                                                         |                                                          |
-| **Necrotic**  |                                                         |                                                          |
-| **Radiant**   |                                                         |                                                          |
-| **Force**     |                                                         |                                                          |
+| Type          | Effect | Notes                                                                                                        |
+| ------------- | ------ | ------------------------------------------------------------------------------------------------------------ |
+| **Blunt**     | WHP    | can knock prone on nat 20                                                                                    |
+| **Piercing**  | CHP    | Half Dmg will hit WHP and Half will hit CHP if rolls higher than 15 all dmg will be taken by CHP on a nat 20 |
+| **Slashing**  | WHP    | Applies bleeding status on rolls above 15 (requires a action to stop bleeding)                               |
+| **Acid**      |        |                                                                                                              |
+| **Fire**      |        |                                                                                                              |
+| **Cold**      |        |                                                                                                              |
+| **Lightning** |        |                                                                                                              |
+| **Poison**    |        |                                                                                                              |
+| **Psionic**   |        |                                                                                                              |
+| **Necrotic**  |        |                                                                                                              |
+| **Radiant**   |        |                                                                                                              |
+| **Force**     |        |                                                                                                              |
+| ****          |        |                                                                                                              |
 
 ---
 
@@ -212,40 +169,30 @@ Fighter, Rogue, Barbarian, Ranger, Paladin, Bard, Sorcerer, Wizard, Cleric, Monk
 
 ### **Armor Table**
 
-| Armor                    | ARN | AHP   |
-| ------------------------ | --- | ----- |
-| None                     | 0   | 0     |
-| Padded Clothes           | 5   | 1000  |
-| Leather                  | 10  | 2000  |
-| Reinforced Leather       | 15  | 3000  |
-| Chainmail                | 20  | 4000  |
-| Half Plate               | 25  | 5000  |
-| Full Plate               | 30  | 6000  |
-| Mithril Plate            | 35  | 7000  |
-| Dwarven Full Plate       | 40  | 8000  |
-| Juggernaut Armor         | 50  | 10000 |
-| Legendary Fortress Armor | 60  | 12000 |
+| Armor                    | ARN | AHP |
+| ------------------------ | --- | --- |
+| None                     | 0   | 0   |
+| Padded Clothes           | 5   | 5   |
+| Leather                  | 10  | 10  |
+| Reinforced Leather       | 15  | 15  |
+| Chainmail                | 20  | 20  |
+| Half Plate               | 25  | 25  |
+| Full Plate               | 30  | 30  |
+| Mithril Plate            | 35  | 35  |
+| Dwarven Full Plate       | 40  | 40  |
+| Juggernaut Armor         | 50  | 50  |
+| Legendary Fortress Armor | 60  | 60  |
 
 ### **Weapon Properties**
 
-Weapons use the format: `dice: (Modifier + P)dX + Stat`
-
-**Example Weapons:**
-
-- **Dagger:** `(SM + P)d4  + SS` -  Thrown (20/40 ft)
-    
-- **Longsword:** (SM + P)d8 + SS
-    
-- **Katana:** (SM + P)d8 + SS`
-    
-- **Long Bow:** (SM + P + AIM)d8
+Weapons use the format: `dice: (P+x)dy+(RSM x RSS)
 
 
 ## **Magic System**
 
 ### **Spellcasting Attributes**
 
-- **Primary:** Intelligence (INT) - `IM = floor(INT_Score / 4)`
+- **Primary:** Intelligence (INT) - `IM = floor(INT_Score / 5)`
     
 - **Secondary (case-specific):** Will, Seduction, or MP may influence certain spells
     

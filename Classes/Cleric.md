@@ -1,5 +1,5 @@
 _"Divine conduits of the Gods, wielding miracles of healing and holy wrath."_
-
+**Mana Dependency** : 4/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Divine Intervention:** Any healing you output that exceeds a target's Max HP is converted into an impenetrable Ward (Temporary AHP) that lasts until depleted.

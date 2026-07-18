@@ -1,5 +1,5 @@
 _"Wilderness survivalists and unmatched sharpshooters."_
-
+**Mana Dependency** : 1/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Infinite Ammo & Proficiency:** You gain double proficiency with any projectile weapon (bows, guns), and you never run out of mundane ammunition. *(Note: This is Flint's selected focus)*

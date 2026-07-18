@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"b0f9186b97ec288d","type":"file","file":"01_Characters/PC Sheets/Lucien_Vorth_CharacterSheet.md","x":-1000,"y":200,"width":840,"height":680},
-		{"id":"083216cf58eed949","type":"file","file":"01_Characters/PC Sheets/Kael_Issac_CharacterSheet.md","x":-120,"y":-520,"width":880,"height":680},
-		{"id":"06e6cb522dc5dc8e","type":"file","file":"01_Characters/PC Sheets/Strarrul_Greenskin_CharacterSheet.md","x":-120,"y":200,"width":880,"height":680},
-		{"id":"e87d15fb5a13da06","type":"file","file":"01_Characters/PC Sheets/Hunter_Moonshine_CharacterSheet.md","x":-1000,"y":-520,"width":836,"height":680}
-	],
-	"edges":[]
-}

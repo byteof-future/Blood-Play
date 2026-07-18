@@ -13,9 +13,9 @@ PlayerCover:
 
 | Level | Class Level |
 | :---: | :---------: |
-|  10   |      2      |
+|  30   |      6      |
 
-| Attribute Points | 37  |
+| Attribute Points | 57  |
 | ---------------- | --- |
 
 **Class Level** = floor(Level / 5)
@@ -31,13 +31,13 @@ PlayerCover:
 | **Resistance**   |       |          |
 | **Intelligence** |       |          |
 | **Health Score** |       |          |
-| **Mana Score**   |       |          |
+| **Mana Score**   |   5   |    +1    |
 
 ### Derived Stats
-| Stat               | Value | Notes                                 | temp RN |
-| :----------------- | :---: | :------------------------------------ | ------- |
-| **Resistance No.** |       | Resistance Score x Resistance Modifer |         |
-| **Total Mana**     |       | Base 100 + (MP Score × 20)            |         |
+| Stat               | Value | Notes                                 |
+| :----------------- | :---: | :------------------------------------ |
+| **Resistance No.** |       | Resistance Score x Resistance Modifer |
+| **Total Mana**     |       |                                       |
 
 ### Health
 *Base HP = 100 + (HP Score × 10)*
@@ -73,6 +73,10 @@ PlayerCover:
 | **Deity**           |       |
 | **Origin**          |       |
 | **Background**      |       |
+
+| Spell capacity | Spell capacity increase |
+| -------------- | ----------------------- |
+|                |                         |
 
 ---
 
@@ -123,6 +127,7 @@ PlayerCover:
 ### Armor
 | Armor Res (ARN) | Armor HP (AHP) | Current AHP |
 | :-------------: | :------------: | :---------: |
+|                 |                |             |
 
 
 ---
@@ -142,6 +147,6 @@ PlayerCover:
 ## Depth
 
 ___
-## Iventory
+## Inventory
 
 

@@ -27,26 +27,26 @@ ___
 
 | Stat             | Score | Modifier |
 | :--------------- | :---: | :------: |
-| **Strength**     |  +12  |    +3    |
-| **Resistance**   |  +5   |    +1    |
-| **Intelligence** |  +7   |    +1    |
-| **Health Score** |  +5   |    -     |
-| **Mana Score**   |  +2   |    -     |
+| **Strength**     |       |          |
+| **Resistance**   |       |          |
+| **Intelligence** |       |          |
+| **Health Score** |       |          |
+| **Mana Score**   |       |          |
 
 
 ### Derived Stats
-| Stat               |  Value  | Notes                      |
-| :----------------- | :-----: | :------------------------- |
-| **Resistance No.** |   25    | 5 × Resistance             |
-| **Total Mana**     | 140/140 | Base 100 + (MP Score × 20) |
+| Stat               | Value | Notes |
+| :----------------- | :---: | :---- |
+| **Resistance No.** |       |       |
+| **Total Mana**     |       |       |
 
 ### Health
 *Base HP = 100 + (HP Score × 10)*
 
 | Type                  | Current | Max | Modifier        |
 | :-------------------- | :-----: | :-: | :-------------- |
-| **Ward Health (WHP)** |   105   | 105 | Increased by +7 |
-| **Core Health (CHP)** |   45    | 45  | Increased by +3 |
+| **Ward Health (WHP)** |         |     | Increased by +7 |
+| **Core Health (CHP)** |         |     | Increased by +3 |
 
 ---
 
@@ -54,13 +54,13 @@ ___
 
 | Sub-Stat         | Score | Sub-Stat         | Score |
 | :--------------- | :---: | :--------------- | :---: |
-| **Agility**      |  +5   | **Intimidation** |  +5   |
-| **Aim**          |  +1   | **Perception**   |   -   |
-| **Coordination** |   -   | **Reflex**       |  +4   |
-| **Deception**    |   -   | **Seduction**    |  -10  |
-| **Dexterity**    |  +2   | **Stealth**      |  +10  |
-| **Ingenuity**    |   -   | **Will**         |  +9   |
-| **Insight**      |  +5   |                  |       |
+| **Agility**      |       | **Intimidation** |       |
+| **Aim**          |       | **Perception**   |       |
+| **Coordination** |       | **Reflex**       |       |
+| **Deception**    |       | **Seduction**    |       |
+| **Dexterity**    |       | **Stealth**      |       |
+| **Ingenuity**    |       | **Will**         |       |
+| **Insight**      |       |                  |       |
 
 ---
 

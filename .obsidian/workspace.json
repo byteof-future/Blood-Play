@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "ca891341bdb23115",
+    "id": "c62ee7ee7a2da273",
     "type": "split",
     "children": [
       {
@@ -10,7 +10,6 @@
           {
             "id": "7f64d051401b98b8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Hunter Moonshine"
             }
@@ -61,16 +59,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9ead196a6bdf70d1",
+    "id": "ff6e44862281bef9",
     "type": "split",
     "children": [
       {
-        "id": "9939e3f53caf0101",
+        "id": "c9b03c95a4872118",
         "type": "tabs",
         "dimension": 74.32605905006419,
         "children": [
           {
-            "id": "35f8fd0ec590996b",
+            "id": "68f09a359efd628a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,7 +81,7 @@
             }
           },
           {
-            "id": "a4147f9132e82efe",
+            "id": "8d72971f6f70d11e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -100,7 +98,7 @@
             }
           },
           {
-            "id": "e6c072fcc76b3903",
+            "id": "16bf1cad59e017cf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -132,52 +130,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "82e39816677d81c5",
+    "id": "57d15f059d52f47b",
     "type": "split",
     "children": [
       {
-        "id": "35819c645d7990f2",
+        "id": "a28a3140b2a99e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "fc590a5f381200ca",
+            "id": "b90054f2c6f2da93",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Sessions/Future_Plans/7 th ring magnumopus.md",
+                "file": "Setting Of The Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 th ring magnumopus"
+              "title": "Backlinks for Setting Of The Campaign"
             }
           },
           {
-            "id": "1ddfb9b52d4a5424",
+            "id": "4e04e124e45cf4a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Compendium/Spellbook/SpellBook.md",
+                "file": "Setting Of The Campaign.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SpellBook"
+              "title": "Outgoing links from Setting Of The Campaign"
             }
           },
           {
-            "id": "cf7a5ba5da866b22",
+            "id": "20c02ae9ed24b073",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -192,7 +189,7 @@
             }
           },
           {
-            "id": "f89d1f484e2d5961",
+            "id": "221a7cd86f87ba73",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -207,50 +204,17 @@
             }
           },
           {
-            "id": "6de974f20931b1aa",
+            "id": "e508c9171897395c",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
-            "id": "7ec16723c7226afb",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3a9b393b3adb",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 28,
-                    "month": 5,
-                    "year": 11997
-                  },
-                  "viewState": 0,
-                  "displaying": {
-                    "day": 27,
-                    "month": 0,
-                    "year": 11997
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_d94918dba91b",
-                "child": "ID_79f88838eaca"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "e27f0c0bc2d9d38d",
+            "id": "fb324e39b792d6b9",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -312,16 +276,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "7f64d051401b98b8",

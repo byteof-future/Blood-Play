@@ -44,8 +44,8 @@ Cover:
 
 | Type                  | Current | Max | Modifier        |
 | :-------------------- | :-----: | :-: | :-------------- |
-| **Ward Health (WHP)** |   114   | 114 | Increased by +6 |
-| **Core Health (CHP)** |   76    | 76  | Increased by +4 |
+| **Ward Health (WHP)** |         |     | Increased by +6 |
+| **Core Health (CHP)** |         |     | Increased by +4 |
 
 ---
 ## 📊 Sub-Stats

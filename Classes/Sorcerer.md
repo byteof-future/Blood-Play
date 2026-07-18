@@ -3,6 +3,7 @@
 _"Spellcasters with innate magical power flowing through their veins."_
 
 ---
+**Mana Dependency** : 5/5
 
 ## Class Focus (Choose 1 at Character Creation)
 

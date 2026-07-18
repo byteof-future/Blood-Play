@@ -1,5 +1,5 @@
 _"Masters of martial arts, channeling their internal Ki to achieve superhuman feats."_
-
+**Mana Dependency** : 2/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Flawless Form:** If you take the "Dodge" or "Defend" action, the first attack that hits you is completely negated, and the attacker takes the damage instead.

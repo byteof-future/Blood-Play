@@ -1,5 +1,5 @@
 _"Hunters who fight in perfect synchronization with a fierce animal companion."_
-
+**Mana Dependency** : 2/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Soul Link:** Any damage you take can be split evenly with your companion, and any healing either of you receives heals both of you.

@@ -1,5 +1,5 @@
 _"Conduits to the afterlife, manipulating souls, ghosts, and the ethereal plane."_
-
+**Mana Dependency** : 4/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Ethereal Shift:** Phase into the spirit realm at will as a free action (0 AP). While phased, you are immune to physical damage, but cannot deal physical damage.

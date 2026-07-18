@@ -34,26 +34,26 @@
 		5. Prowess
 14. Specialist Talents
 15. Rules for Everything
-	1. Aim
+	1. [[Aim]]
 	2. [[Travel]]
 	3. [[Stealth]]
-	4. leap
-	5. Environmental Effects
-	6. Block
-	7. Dodge
-	8. Take Cover
-	9. Grapple
-	10. Scale
-	11. Hold Action
-	12. Assists
-	13. Standard Aids
-	14. Armor And Equipment
-	15. Augmentation
-	16. Concentration and focus
-	17. Resting
-	18. Ailments
-	19. Environmental
-	20. Fatigues 
+	4. [[leap]]
+	5. [[Environmental Effects]]
+	6. [[Block]]
+	7. [[Dodge]]
+	8. [[Take Cover]]
+	9. [[Grapple]]
+	10. [[Scale]]
+	11. [[Hold Action]]
+	12. [[Assists]]
+	13. [[Standard Aids]]
+	14. [[Armor And Equipment]]
+	15. [[Augmentation]]
+	16. [[Concentration and focus]]
+	17. [[Resting]]
+	18. [[Ailments]]
+	19. [[Environmental]]
+	20. [[Fatigues]] 
 16. Magic
 17. Magic items
 18. Armor

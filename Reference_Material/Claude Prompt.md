@@ -1,4 +1,4 @@
-# Prompt 1
+   # Prompt 1
 
 I want you to make some religions based on this as well as files for each of the Gods and some history between them some legends and stories just to flesh out the world and make it feel real(Can do this in steps) -
 

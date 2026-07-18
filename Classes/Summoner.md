@@ -1,5 +1,5 @@
 _"Conjurors of otherworldly beasts, demons, and celestial guardians."_
-
+**Mana Dependency** : 4/5
 ## Class Focus (Single-Class Only)
 _Granted at Character Creation. Lost if you multiclass. Choose ONE:_
 1. **Convergence:** You can fuse two of your summons together, creating a massive entity that combines both of their HP, damage dice, and special abilities.
